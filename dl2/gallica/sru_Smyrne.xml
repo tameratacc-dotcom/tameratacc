@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Smyrne") and (dc.type all "image")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>86</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;87&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>.. 1922</dc:coverage>
+                    <dc:creator>Agence Rol. Agence photographique (commanditaire)</dc:creator>
+                    <dc:date>1922</dc:date>
+                    <dc:description>Référence bibliographique : Rol, 78250</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Pho20Rol</dc:description>
+                    <dc:description>Image de presse</dc:description>
+                    <dc:format>1 photogr. nég. sur verre ; 13 x 18 cm (sup.)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53094283s</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb442377207</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, EI-13 (941)</dc:source>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:title>Smyrne, vue générale : [photographie de presse] / [Agence Rol]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53094283s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53094283s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53094283s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53094283s.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53094283s.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53094283s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Girault de Prangey, Philibert-Joseph (1804-1892). Photographe</dc:creator>
+                    <dc:date>1843</dc:date>
+                    <dc:description>Ancien possesseur / Ancienne possesseuse : Simony, Charles de (comte ; 1869-1952). Ancien possesseur / Ancienne possesseuse</dc:description>
+                    <dc:description>[133. Smyrne. 1843. Pont des Caravanes (non renseigné)]</dc:description>
+                    <dc:description>Ancien possesseur / Ancienne possesseuse : Simony, Charles de (1869-1952)</dc:description>
+                    <dc:format>1 photogr. pos. directe sur cuivre argenté : daguerréotype, n. et b. ; 18 x 23,5 cm (im.), 19 x 24 cm (sous-verre)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 2</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b69034732</dc:identifier>
+                    <dc:identifier>IFN-6903473</dc:identifier>
+                    <dc:identifier>Numéro commercial : Girault de Prangey 133</dc:identifier>
+                    <dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb23756599n</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40331799p</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, RES PHOTO EG7-749</dc:source>
+                    <dc:subject>Ponts en pierre</dc:subject>
+                    <dc:subject>Habitations en bois</dc:subject>
+                    <dc:subject>Habitations en pierre</dc:subject>
+                    <dc:subject>Hiver</dc:subject>
+                    <dc:subject>Cyprès</dc:subject>
+                    <dc:subject>Izmir</dc:subject>
+                    <dc:subject>Izmir (Turquie) -- Pont des Caravanes</dc:subject>
+                    <dc:subject>Paysages</dc:subject>
+                    <dc:title>133. Smyrne. 1843. Pont des Caravanes : [photographie] / [Joseph Philibert Girault de Prangey]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b69034732.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b69034732</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b69034732.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b69034732.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b69034732.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b69034732</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Deshayes, Eugène (1828-1890). Lithographe</dc:creator>
+                    <dc:creator>Girault de Prangey, Philibert-Joseph (1804-1892). Peintre du modèle</dc:creator>
+                    <dc:date>1852</dc:date>
+                    <dc:description>Référence bibliographique : IFF19 DESHAYES (Eugène), 4</dc:description>
+                    <dc:description>Référence bibliographique : IFF19 GIRAULT de PRANGEY (Philibert Joseph), 4</dc:description>
+                    <dc:format>1 est. : chromolithographie ; 18,5 x 31,4 cm (im.), 34,5 x 49,9 cm (f.)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53185172v</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:publisher>Imp. Lemercier (Paris)</dc:publisher>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40344250w</dc:relation>
+                    <dc:relation>Appartient à : [Recueil. Oeuvre de Girault de Prangey. Oeuvre monté]</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb45536603s</dc:relation>
+                    <dc:relation>Planche extraite de"Monuments et Paysages de l'Orient", Girault de Prangey. [1852].</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, DC-180 (A)-FOL</dc:source>
+                    <dc:subject>Ponts -- Izmir (Turquie)</dc:subject>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:subject>Vues panoramiques -- 1800-1869</dc:subject>
+                    <dc:title>Pont des Caravanes, a Smyrne // Asie Mineure : [estampe] / Girault de Prangey pinx.t ; E. Deshayes lith.</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53185172v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53185172v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53185172v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53185172v.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53185172v.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53185172v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1220-1270</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : RsAlis000</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : RsAlis002</dc:description>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b105757424</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44925567v</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://catalogues.toulouse.fr/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BMT1&amp;servers=1home&amp;query=z001293</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque municipale de Toulouse, Bibliothèque municipale de Toulouse</dc:source>
+                    <dc:subject>Jean l'Évangéliste (saint ; ....-006.?)</dc:subject>
+                    <dc:subject>Jean (saint) écrivant</dc:subject>
+                    <dc:subject>Ecriture</dc:subject>
+                    <dc:subject>Instrument d'écriture</dc:subject>
+                    <dc:subject>Siège</dc:subject>
+                    <dc:subject>Eglise</dc:subject>
+                    <dc:subject>Jean (saint) écrivant aux sept Eglises</dc:subject>
+                    <dc:subject>Jean (saint) écrivant à l'Eglise de Smyrne</dc:subject>
+                    <dc:title>Saint Jean écrivant à l'Eglise de Smyrne</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b105757424.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b105757424</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b105757424.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b105757424.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b105757424.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b105757424</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Laboureur, Jean-Émile (1877-1943). Graveur</dc:creator>
+                    <dc:date>1911</dc:date>
+                    <dc:description>Référence bibliographique : Laboureur, 105</dc:description>
+                    <dc:format>1 est. : eau-forte ; 16,5 x 20,8 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b105368845</dc:identifier>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39863670s</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, FOL-EF-465 (3)</dc:source>
+                    <dc:title>Cafedji au bazar de Smyrne : [estampe] ([1er état]) / Jean Emile Laboureur</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>4</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b105368845.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b105368845</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b105368845.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b105368845.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b105368845.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b105368845</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Mulder (16..-17.. ; graveur). Graveur</dc:creator>
+                    <dc:date>1714</dc:date>
+                    <dc:description>Illustration</dc:description>
+                    <dc:format>135 est. : taille-douce : n. et b. ; 31 x 188 cm et moins</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b23007623</dc:identifier>
+                    <dc:identifier>IFN-2300762</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Guillaume Cavelier (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb38460178m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Médiathèque du musée du quai Branly - Jacques Chirac</dc:source>
+                    <dc:title>[Illustrations de Voyage au Levant] / Mulder, grav.; R. Du Val, dess. ; Corneille Le Brun, aut. du texte</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>5</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b23007623.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b23007623</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b23007623.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b23007623.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b23007623.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b23007623</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Laboureur, Jean-Émile (1877-1943). Graveur</dc:creator>
+                    <dc:date>1911-1912</dc:date>
+                    <dc:description>Référence bibliographique : Laboureur, 103</dc:description>
+                    <dc:format>1 est. : eau-forte ; 17,5 x 32,5 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10536887h</dc:identifier>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39863667w</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, FOL-EF-465 (3)</dc:source>
+                    <dc:title>Passage de caravane à Smyrne : [estampe] ([1er état]) / Jean Emile Laboureur</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>6</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10536887h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10536887h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10536887h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10536887h.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10536887h.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b10536887h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1945-1985</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : Mirimonde1</dc:description>
+                    <dc:format>1 photogr. pos.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8434414j</dc:identifier>
+                    <dc:identifier>IFN-8434414</dc:identifier>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb421759064</dc:relation>
+                    <dc:relation>Appartient à : [Fonds Albert Pomme de Mirimonde. Collection de documents iconographiques. Boîte 17, Concerts parodiques - Exotisme]</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39896422q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Musique, VM PHOT MIRI-17 (425)</dc:source>
+                    <dc:subject>Instrument traditionnel</dc:subject>
+                    <dc:title>Corps de garde turc sur la route de Smyrne à Magnésie / A. Decamps</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>7</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8434414j.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8434414j</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8434414j.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8434414j.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8434414j.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8434414j</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage> 1915</dc:coverage>
+                    <dc:creator>Masnou, François (1894-1986). Photographe</dc:creator>
+                    <dc:creator>Agence Rol. Agence photographique (commanditaire)</dc:creator>
+                    <dc:date>1915</dc:date>
+                    <dc:description>Référence bibliographique : K258930</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Pho20Rol</dc:description>
+                    <dc:description>Image de presse</dc:description>
+                    <dc:format>1 photogr. nég. sur verre ; 9 x 12 cm (sup.)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53235140f</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb46888552w</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, EI4-13 (boîte 21)</dc:source>
+                    <dc:subject>De Robeck, John Michael (1862-1928)</dc:subject>
+                    <dc:subject>Amiraux -- Grande-Bretagne</dc:subject>
+                    <dc:subject>Officiers -- Grande-Bretagne</dc:subject>
+                    <dc:subject>Officiers -- France</dc:subject>
+                    <dc:subject>Expédition des Dardanelles (1915-1916)</dc:subject>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:subject>Grande-Bretagne. Army</dc:subject>
+                    <dc:subject>Portraits collectifs -- 1914-1945</dc:subject>
+                    <dc:title>Amiral de Robeck devant Smyrne : [photographie de presse] / [François Masnou]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>8</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53235140f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53235140f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53235140f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53235140f.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53235140f.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53235140f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>.. juillet 1921</dc:coverage>
+                    <dc:creator>Agence Rol. Agence photographique (commanditaire)</dc:creator>
+                    <dc:date>1921</dc:date>
+                    <dc:description>Référence bibliographique : Rol, 67852</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Pho20Rol</dc:description>
+                    <dc:format>1 photogr. nég. sur verre ; 13 x 18 cm (sup.)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53068124t</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb436679292</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, EI-13 (810)</dc:source>
+                    <dc:subject>Palais -- Izmir (Turquie)</dc:subject>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:title>Entrée du palais royal à Smyrne : [photographie de presse] / [Agence Rol]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>9</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53068124t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53068124t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53068124t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53068124t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53068124t.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53068124t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>.. mars 1922</dc:coverage>
+                    <dc:creator>Agence Rol. Agence photographique (commanditaire)</dc:creator>
+                    <dc:date>1922</dc:date>
+                    <dc:description>Référence bibliographique : Rol, 73108</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : Pho20Rol</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Image de presse</dc:description>
+                    <dc:format>1 photogr. nég. sur verre ; 13 x 18 cm (sup.)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53076942d</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb43785804j</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, EI-13 (873)</dc:source>
+                    <dc:subject>Ports -- Izmir (Turquie)</dc:subject>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:title>Quais de Smyrne (CNews) : [photographie de presse] / [Agence Rol]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>10</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53076942d.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53076942d</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53076942d.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53076942d.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53076942d.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53076942d</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Liotard, Jean Étienne (1702-1789). Dessinateur</dc:creator>
+                    <dc:date>1738</dc:date>
+                    <dc:description>Référence bibliographique : Tilanus, d.10</dc:description>
+                    <dc:description>Référence bibliographique : Herdt de, 16</dc:description>
+                    <dc:format>1 dessin : contre-épreuve à la sanguine et pierre noire ; 23,5 x 16 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10843786s</dc:identifier>
+                    <dc:identifier>IFN-10843786</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40342716m</dc:relation>
+                    <dc:relation>Appartient à : [Recueil. Dessins. Ecole Française. XVe - XVIIIe siècles]</dc:relation>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb47542513b</dc:relation>
+                    <dc:relation>Appartient à : [Recueil. Oeuvre de Jean-Etienne Liotard. Dessins]</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb47544022d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, RESERVE B-6 (E,20)-BOITE FOL</dc:source>
+                    <dc:subject>Portraits -- 1701-1788</dc:subject>
+                    <dc:title>[Madame Gaspard de Péleran, épouse du consul de France à Smyrne, en costume d'amazone] / [dessin] ; [Jean Etienne Liotard]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>dessin</dc:type>
+                    <dc:type>drawing</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>11</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10843786s.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10843786s</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10843786s.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10843786s.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10843786s.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b10843786s</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Turquie</dc:coverage>
+                    <dc:creator>Tournefort, Joseph Pitton de (1656-1708). Auteur adapté</dc:creator>
+                    <dc:date>1717</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : AnvilMF</dc:description>
+                    <dc:format>1 est. : ill. ; 12 x 18 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8592811z</dc:identifier>
+                    <dc:identifier>IFN-8592811</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (A Paris)</dc:publisher>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40577015h</dc:relation>
+                    <dc:relation>Appartient à : Collection d'Anville ; 06532</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb406394650</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Cartes et plans, GE DD-2987 (6532)</dc:source>
+                    <dc:subject>Izmir -- Vues cavalières</dc:subject>
+                    <dc:subject>Navires à voiles</dc:subject>
+                    <dc:title>Veüe de Smyrne / [M. Pitton de Tournefort]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>12</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8592811z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8592811z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8592811z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8592811z.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8592811z.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8592811z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Turquie</dc:coverage>
+                    <dc:creator>Tournefort, Joseph Pitton de (1656-1708). Auteur adapté</dc:creator>
+                    <dc:date>1717</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : AnvilMF</dc:description>
+                    <dc:format>1 est. : ill. ; 12 x 18 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b85928161</dc:identifier>
+                    <dc:identifier>IFN-8592816</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (A Paris)</dc:publisher>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40577015h</dc:relation>
+                    <dc:relation>Appartient à : Collection d'Anville ; 06537</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40639469c</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Cartes et plans, GE DD-2987 (6537)</dc:source>
+                    <dc:subject>Kuşadasi -- Vues cavalières</dc:subject>
+                    <dc:subject>Agriculteurs</dc:subject>
+                    <dc:subject>Navires à voiles</dc:subject>
+                    <dc:title>Veüe de Scalanova proche de Smyrne / [M. Pitton de Tournefort]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>13</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b85928161.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b85928161</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b85928161.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b85928161.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b85928161.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b85928161</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Turquie</dc:coverage>
+                    <dc:creator>Tournefort, Joseph Pitton de (1656-1708). Auteur adapté</dc:creator>
+                    <dc:date>1717</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : AnvilMF</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDI008</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : MAEDIGen0</dc:description>
+                    <dc:format>1 carte ; 12,5 x 18,5 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8592803d</dc:identifier>
+                    <dc:identifier>IFN-8592803</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[s.n.] (A Paris)</dc:publisher>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40577015h</dc:relation>
+                    <dc:relation>Appartient à : Collection d'Anville ; 06525</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40639450z</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Cartes et plans, GE DD-2987 (6525)</dc:source>
+                    <dc:subject>Izmir, Golfe d' -- Littoraux</dc:subject>
+                    <dc:title>Baye de Smyrne / [M. Pitton de Tournefort]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>14</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8592803d.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8592803d</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8592803d.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8592803d.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8592803d.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8592803d</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Liotard, Jean Étienne (1702-1789). Dessinateur</dc:creator>
+                    <dc:date>1738</dc:date>
+                    <dc:description>Référence bibliographique : Tilanus, d.39</dc:description>
+                    <dc:description>Référence bibliographique : Herdt de, 19</dc:description>
+                    <dc:format>1 dessin : contre-épreuve à la sanguine et pierre noire ; 23,3 x 15,3 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10843785b</dc:identifier>
+                    <dc:identifier>IFN-10843785</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40342716m</dc:relation>
+                    <dc:relation>Appartient à : [Recueil. Dessins. Ecole Française. XVe - XVIIIe siècles]</dc:relation>
+                    <dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb47542513b</dc:relation>
+                    <dc:relation>Appartient à : [Recueil. Oeuvre de Jean-Etienne Liotard. Dessins]</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb47544047r</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, RESERVE B-6 (E,20)-BOITE FOL</dc:source>
+                    <dc:subject>Portraits -- 1701-1788</dc:subject>
+                    <dc:title>La Signora Marigot. Smyrne / [dessin] ; [Jean Etienne Liotard]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>dessin</dc:type>
+                    <dc:type>drawing</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>15</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10843785b.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10843785b</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10843785b.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10843785b.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10843785b.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b10843785b</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1718</dc:date>
+                    <dc:description>Illustration</dc:description>
+                    <dc:format>23 est. : taille-douce : N. et b. ; 16 x 23 cm et moins</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b23006279</dc:identifier>
+                    <dc:identifier>IFN-2300627</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>J.A. Langerak (Leide)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb38455665n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Médiathèque du musée du quai Branly - Jacques Chirac</dc:source>
+                    <dc:title>[Illustrations de Traité historique sur les Amazones] / [Non identifié] ; Pierre Petit, aut. du texte</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>16</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b23006279.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b23006279</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b23006279.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b23006279.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b23006279.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b23006279</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Jusserand, Marcel. Photographe</dc:creator>
+                    <dc:date>1908</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Un album de 75 photographies positives sur papier gélatino-argentique, d'après des négatifs sur verre ; 31 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 158</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8432926v</dc:identifier>
+                    <dc:identifier>IFN-8432926</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40380520n</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, VH-654-4</dc:source>
+                    <dc:subject>Liban</dc:subject>
+                    <dc:subject>Baalbek (Liban)</dc:subject>
+                    <dc:subject>Beyrouth (Liban)</dc:subject>
+                    <dc:subject>Syrie</dc:subject>
+                    <dc:subject>Damas (Syrie)</dc:subject>
+                    <dc:subject>Palestine</dc:subject>
+                    <dc:subject>Jourdain (cours d'eau)</dc:subject>
+                    <dc:subject>Jérusalem</dc:subject>
+                    <dc:subject>Hébron (Palestine)</dc:subject>
+                    <dc:subject>Turquie</dc:subject>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:subject>Hierapolis (Turquie ; ville ancienne)</dc:subject>
+                    <dc:subject>Laodicée du Lycos (Turquie ; ville ancienne)</dc:subject>
+                    <dc:subject>Éphèse (Turquie ; ville ancienne)</dc:subject>
+                    <dc:subject>Bursa (Turquie)</dc:subject>
+                    <dc:subject>Istanbul (Turquie)</dc:subject>
+                    <dc:subject>Grèce</dc:subject>
+                    <dc:subject>Thessalonique (Grèce)</dc:subject>
+                    <dc:subject>Sýros (Grèce ; île)</dc:subject>
+                    <dc:subject>Athènes (Grèce)</dc:subject>
+                    <dc:subject>Delphes (Grèce ; ville ancienne)</dc:subject>
+                    <dc:subject>Olympie (Grèce ; sanctuaire)</dc:subject>
+                    <dc:subject>Messène (Grèce ; ville ancienne)</dc:subject>
+                    <dc:subject>Mistra (Grèce)</dc:subject>
+                    <dc:subject>Tirynthe (Grèce ; ville ancienne)</dc:subject>
+                    <dc:subject>Mycènes (Grèce ; ville ancienne)</dc:subject>
+                    <dc:subject>Corinthe (Grèce)</dc:subject>
+                    <dc:subject>Monastère de Daphni (Dafni, Grèce)</dc:subject>
+                    <dc:subject>Paysages -- 1870-1913</dc:subject>
+                    <dc:subject>Vues d'architecture -- 1870-1913</dc:subject>
+                    <dc:subject>Portraits collectifs -- 1870-1913</dc:subject>
+                    <dc:subject>Scènes de moeurs -- 1870-1913</dc:subject>
+                    <dc:title>Souvenirs d'Orient / Marcel Jusserand</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>17</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8432926v.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8432926v</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8432926v.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8432926v.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8432926v.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8432926v</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Robertson, James (1813-1888). Photographe</dc:creator>
+                    <dc:creator>Beato, Felice (1832-1909). Photographe</dc:creator>
+                    <dc:creator>Svoboda, Alexander Sandor (1826-1896). Photographe</dc:creator>
+                    <dc:date>1859-1860</dc:date>
+                    <dc:format>1 album de 32 photographies positives ; 62 x 50 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 77</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b532899016</dc:identifier>
+                    <dc:identifier>IFN-53289901</dc:identifier>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb45861609s</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb45861549r</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, RES PHOTO VH-315 (3)-BOITE FOL</dc:source>
+                    <dc:subject>Orléans, Louis-Philippe-Albert d' (1838-1894) -- Portraits</dc:subject>
+                    <dc:subject>Syrie</dc:subject>
+                    <dc:subject>Jérusalem</dc:subject>
+                    <dc:subject>Paysages -- 1800-1869</dc:subject>
+                    <dc:subject>Portraits collectifs -- 1800-1869</dc:subject>
+                    <dc:subject>Vues d'architecture -- 1800-1869</dc:subject>
+                    <dc:subject>Vues panoramiques -- 1800-1869</dc:subject>
+                    <dc:title>Jérusalem - La Syrie. [Volume 3], [album du comte de Paris]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>18</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b532899016.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b532899016</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b532899016.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b532899016.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b532899016.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b532899016</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Luycken. Illustrateur</dc:creator>
+                    <dc:date>1670</dc:date>
+                    <dc:format>In-4 obl., 48 pl.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 73</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8447130t</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>[S. l.], [Hollande], vers 1670</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb403566782</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, 4-OB-19</dc:source>
+                    <dc:subject>Costume. Etranger. Génér. XVIIe s.</dc:subject>
+                    <dc:title>Costumes des quatre parties du monde / gravés dans la manière de Luycken</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>19</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8447130t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8447130t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8447130t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8447130t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8447130t.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8447130t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Bonfils, Félix (1831-1885). Photographe</dc:creator>
+                    <dc:creator>Charvet, Gratien (1826-1884). Préfacier</dc:creator>
+                    <dc:date>1878</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>1 album de 50 photogr. pos. sur papier albuminé d'après des négatifs sur verre au collodion, contrecollées sur carton, et 55 p. imprimées ; 38 x 49 cm (vol.), 28,5 x 23 cm (épr.)</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 104</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8451648n</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>eng</dc:language>
+                    <dc:language>ger</dc:language>
+                    <dc:publisher>Chez l'auteur (A Alais (Gard) [Alès])</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb422786542</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb42279107d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, PET FOL-UB-132 (D)</dc:source>
+                    <dc:subject>Syrie</dc:subject>
+                    <dc:subject>Liban</dc:subject>
+                    <dc:subject>Turquie</dc:subject>
+                    <dc:subject>Damas (Syrie)</dc:subject>
+                    <dc:subject>Palmyre (Syrie ; ville ancienne)</dc:subject>
+                    <dc:subject>Baalbek (Liban)</dc:subject>
+                    <dc:subject>Beyrouth (Liban)</dc:subject>
+                    <dc:subject>Nahr al-Kalb (Liban ; cours d'eau)</dc:subject>
+                    <dc:subject>Tripoli (Liban)</dc:subject>
+                    <dc:subject>Iskenderun (Turquie)</dc:subject>
+                    <dc:subject>Mersin (Turquie)</dc:subject>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:subject>Selçuk (Turquie)</dc:subject>
+                    <dc:title>Souvenirs d'Orient : Album pittoresque des sites, villes et ruines les plus remarquables de la Syrie et de la Côte-d'Asie [,] avec notice historique, archéologique et descriptive en regard de chaque planche / Photographié et édité par Félix Bonfils [,] Auteur et éditeur des voyages d'Égypte, de Syrie, de Grèce et de Constantinople.</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>20</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8451648n.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8451648n</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8451648n.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8451648n.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8451648n.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8451648n</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Aubriet, Claude (1665-1742). Dessinateur</dc:creator>
+                    <dc:creator>Tournefort, Joseph Pitton de (1656-1708). Auteur du texte</dc:creator>
+                    <dc:date>1718</dc:date>
+                    <dc:description>Illustration</dc:description>
+                    <dc:format>133 est. : taille-douce : N. et b. ; 23 x 25 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b23005662</dc:identifier>
+                    <dc:identifier>IFN-2300566</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Aux dépens de la Compagnie (Amsterdam)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb38444381m</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>[Illustrations de Relation d'un voyage du Levant] / Aubriet, dess. ; Joseph Pitton de Tournefort, aut. du texte</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>21</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b23005662.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b23005662</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b23005662.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b23005662.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b23005662.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b23005662</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Aubriet, Claude (1665-1742). Dessinateur</dc:creator>
+                    <dc:creator>Tournefort, Joseph Pitton de (1656-1708). Auteur du texte</dc:creator>
+                    <dc:date>1717</dc:date>
+                    <dc:description>Illustration</dc:description>
+                    <dc:format>152 est. : taille-douce : N. et b. ; 22 x 34 cm et moins</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b2300570z</dc:identifier>
+                    <dc:identifier>IFN-2300570</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Imprimerie Royale (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb38454497g</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France</dc:source>
+                    <dc:title>[Illustrations de Relation d'un voyage du Levant] / [Non identifié] ; Joseph Pitton de Tournefort, aut. du texte</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>22</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b2300570z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b2300570z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b2300570z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b2300570z.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b2300570z.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b2300570z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Dubufe, Guillaume (1853-1909). Préfacier</dc:creator>
+                    <dc:creator>Photo-club de Paris. Auteur du texte</dc:creator>
+                    <dc:date>1895</dc:date>
+                    <dc:format>1 vol. (LVIII p. de pl.) : héliogravures ; 41 x 32 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 214</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53206965z</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Photo-club (Paris)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40373874x</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, RES PHOTO YD2-866 (2)-BOITE FOL</dc:source>
+                    <dc:subject>Photo-club de Paris -- Expositions</dc:subject>
+                    <dc:title>Deuxième exposition d'art photographique : Paris, 1895 / Photo-Club de Paris ; [préface de Guillaume Dubuffe]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>23</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53206965z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53206965z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53206965z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53206965z.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53206965z.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53206965z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1850-1890</dc:date>
+                    <dc:description>Collectionneur : Desbenoît (1...-195. ; collectionneur). Collectionneur</dc:description>
+                    <dc:description>Image de presse</dc:description>
+                    <dc:format>1 vol. (206 p.) : ... reproductions d'estampes ; 40 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 225</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53156527z</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb45300355s</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb45301296b</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, PET FOL-AD-381 (5)</dc:source>
+                    <dc:subject>Portraits -- 1870-1913</dc:subject>
+                    <dc:title>Collection Jaquet. La Gravure sur bois. Collection de gravures extraites de périodiques et de journaux illustrés du XIXe siècle. Dessinateurs du Tour du monde : divers Sa-Z. Tome 5 : [défets d'illustrations de périodiques]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>24</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53156527z.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53156527z</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53156527z.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53156527z.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53156527z.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53156527z</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>David, F. A.. Illustrateur</dc:creator>
+                    <dc:creator>Mulot. Auteur du texte</dc:creator>
+                    <dc:date>1787</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 tomes en 2 vol. in-4, pl. au bistre</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 467</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8490114x</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Paris [rue des Cordeliers], l'auteur, 1787</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb40341118d</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40341118d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, 4-AB-54</dc:source>
+                    <dc:title>Le Museum de Florence ou collection des pierres gravées, statues, médailles et peintures qui se trouvent à Florence, principalement dans le cabinet du Grand Duc de Toscane... / gravé par M. David, avec des explications françaises par M. ; Mulot...</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>25</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8490114x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.medres</medres>
+                <nqamoyen>99.94</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8490114x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Grasset Saint-Sauveur, Jacques (1757-1810). Auteur du texte. Dessinateur du modèle</dc:creator>
+                    <dc:creator>Mixelle, Félix (1763-1837). Graveur</dc:creator>
+                    <dc:creator>Maréchal, Sylvain (1750-1803). Auteur du texte</dc:creator>
+                    <dc:creator>Desrais, Claude-Louis (1746-1816). Dessinateur du modèle</dc:creator>
+                    <dc:creator>Ridé (17..-18.. ; graveur). Graveur</dc:creator>
+                    <dc:date>1784-1788</dc:date>
+                    <dc:description>Référence bibliographique : IFF18, Grasset de Saint- Sauveur, 3</dc:description>
+                    <dc:description>Référence bibliographique : Cohen, 677</dc:description>
+                    <dc:description>Référence bibliographique : Colas, 1289, 1290, 1291</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Illustration</dc:description>
+                    <dc:format>306 est. : eau-forte, outils, colorié à main levée</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 707</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b86220511</dc:identifier>
+                    <dc:identifier>IFN-8622051</dc:identifier>
+                    <dc:publisher>Pavard (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb402688602</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb402688602</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arsenal, 4-H-7572 (2)</dc:source>
+                    <dc:subject>Costumes -- 1701-1788</dc:subject>
+                    <dc:title>Costumes Civils actuels de tous les Peuples connus. / [planches dessinées par Desrais] ; [et par Jacques Grasset de Saint-Sauveur] ; [gravé par Felix Mixelle] ; [notices rédigées par Sylvain Maréchal]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>26</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b86220511.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b86220511</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b86220511.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b86220511.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b86220511.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b86220511</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Taylor, Justin (1789-1879). Auteur du texte</dc:creator>
+                    <dc:date>1857</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>5 vol. : fig., pl. et plans ; Fol.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 180</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8452165r</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A.-F. Lemaître (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb42496574p</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb424969812</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, FOL-UB-23 (A)</dc:source>
+                    <dc:title>Voyages pittoresques et romantiques dans l'ancienne France / par MM. Ch. Nodier, J. Taylor et Alph. de Cailleux</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>27</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8452165r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.medres</medres>
+                <nqamoyen>99.84</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8452165r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Turquie</dc:coverage>
+                    <dc:coverage>Grèce – Îles de la Mer Égée septentrionale – Sámos</dc:coverage>
+                    <dc:creator>Salles, André (1860-1929). Photographe. Donateur</dc:creator>
+                    <dc:date>1893</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PhoGéo1</dc:description>
+                    <dc:format>12 phot.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 12</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53174357c</dc:identifier>
+                    <dc:identifier>IFN-53174357</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40589590b</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention Société de géographie)</dc:rights>
+                    <dc:rights>restricted use (convention Société de géographie)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Société de Géographie, SG WD-122</dc:source>
+                    <dc:subject>Mer Blanche, Îles de la (wilaïet)</dc:subject>
+                    <dc:subject>Ottoman, Empire</dc:subject>
+                    <dc:subject>Liban</dc:subject>
+                    <dc:subject>Turquie d'Europe</dc:subject>
+                    <dc:subject>Izmir</dc:subject>
+                    <dc:subject>Chio</dc:subject>
+                    <dc:subject>Sámos</dc:subject>
+                    <dc:title>[12 phot. de Smyrne, Chio, Samos et du Liban en avril-mai 1893, par F.A. Salles, donateur en 1893]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>28</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53174357c.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53174357c</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53174357c.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53174357c.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53174357c.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53174357c</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Grèce</dc:coverage>
+                    <dc:creator>Rubellin (18..-18..? ; photographe à Smyrne). Photographe</dc:creator>
+                    <dc:date>1887</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PhoGéo1</dc:description>
+                    <dc:format>Portrait 2 phot.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 6</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8553770p</dc:identifier>
+                    <dc:identifier>IFN-8553770</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb405886446</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention Société de géographie)</dc:rights>
+                    <dc:rights>restricted use (convention Société de géographie)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Société de Géographie, SG WC-219</dc:source>
+                    <dc:subject>Olga de Russie (reine des Hellènes ; 1851-1926)</dc:subject>
+                    <dc:subject>Anthropologie physique</dc:subject>
+                    <dc:subject>Grèce</dc:subject>
+                    <dc:title>[Portrait de la reine Olga de Grèce (même type que Wc 218) non signé, 2 phot. de types grecs par Rubellin, phot. à Smyrne, le tout donné par P.P. Potagos en 1887]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>29</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8553770p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8553770p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8553770p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8553770p.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8553770p.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8553770p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Turquie</dc:coverage>
+                    <dc:creator>Rubellin (18..-18..? ; photographe à Smyrne). Photographe</dc:creator>
+                    <dc:creator>Tutungian, Gaspar (18..-18..? ; photographe à). Photographe</dc:creator>
+                    <dc:date>1887</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PhoGéo1</dc:description>
+                    <dc:format>26 phot.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 52</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53174389h</dc:identifier>
+                    <dc:identifier>IFN-53174389</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40589530g</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention Société de géographie)</dc:rights>
+                    <dc:rights>restricted use (convention Société de géographie)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Société de Géographie, SG WD-62</dc:source>
+                    <dc:subject>Anthropologie physique</dc:subject>
+                    <dc:subject>Turquie d'Europe</dc:subject>
+                    <dc:subject>Izmir</dc:subject>
+                    <dc:title>[26 phot. de Turcs, Circassien et Persan de Smyrne, par Rubellin, phot. à Smyrne, et Gaspar Tutungian, phot. à Adana, don P.P. Potagos en 1887]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>30</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53174389h.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53174389h</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53174389h.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53174389h.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53174389h.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53174389h</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Fonteray, Alain. Photographe</dc:creator>
+                    <dc:date>1983</dc:date>
+                    <dc:format>Rec. factice : coul. ; formats divers</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 49</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10610063f</dc:identifier>
+                    <dc:identifier>IFN-10610063</dc:identifier>
+                    <dc:relation>L'opéra de Smyrne / mise en scène de Jean-Claude Penchenat. - Antony : Centre Technique, 18-01-1983</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb444679949</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, NEG-PHO-41 (6)</dc:source>
+                    <dc:title>[L'opéra de Smyrne, texte de Carlo Goldoni : photographies / Alain Fonteray]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>31</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b10610063f.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10610063f</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b10610063f.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b10610063f.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10610063f.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b10610063f</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Fonteray, Alain. Photographe</dc:creator>
+                    <dc:date>1983</dc:date>
+                    <dc:format>Rec. factice : n. et b. ; formats divers</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 350</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b106100620</dc:identifier>
+                    <dc:identifier>IFN-10610062</dc:identifier>
+                    <dc:relation>L'opéra de Smyrne / mise en scène de Jean-Claude Penchenat. - Antony : Centre Technique, 18-01-1983</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44467992m</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, NEG-PHO-41 (5)</dc:source>
+                    <dc:title>[L'opéra de Smyrne, texte de Carlo Goldoni : photographies / Alain Fonteray]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>32</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b106100620.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b106100620</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b106100620.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b106100620.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b106100620.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b106100620</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Fonteray, Alain. Photographe</dc:creator>
+                    <dc:date>1983</dc:date>
+                    <dc:format>74 photogr. pos. : diapositive coul. ; 24x36 mm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 65</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b106113327</dc:identifier>
+                    <dc:identifier>IFN-10611332</dc:identifier>
+                    <dc:relation>L'opéra de Smyrne / mise en scène de Jean-Claude Penchenat. - Antony : Centre Technique, 18-01-1983</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44468000w</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, DIA-PHO-41 (3)</dc:source>
+                    <dc:title>[L'opéra de Smyrne, texte de Carlo Goldoni : photographies / Alain Fonteray]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>33</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b106113327.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b106113327</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b106113327.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b106113327.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b106113327.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b106113327</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Cande, Daniel (1938-....). Photographe</dc:creator>
+                    <dc:date>1985</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PhoSpec1</dc:description>
+                    <dc:format>22 photogr. pos. : diapositive coul. ; 24x36 mm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 22</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b90020992</dc:identifier>
+                    <dc:identifier>IFN-9002099</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Daniel Cande (Paris)</dc:publisher>
+                    <dc:relation>L'imprésario de Smyrne / mise en scène de Jean-Luc Boutté. - Paris : Comédie-Française, 20-04-1985</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41407555n</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2016-062763-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2016-062763-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, DIA-PHO-6 (354)</dc:source>
+                    <dc:title>[L'Imprésario de Smyrne, texte de Carlo Goldoni : photographies / Daniel Cande]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>34</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b90020992.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b90020992</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b90020992.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b90020992.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b90020992.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b90020992</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:identifier>665</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/129372</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/0d69c4b744659b0fecb7eae8abc7aedb28b31e88.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:title>Un corps de garde turc sur la route de smyrne à Magnesie</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>35</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/0d69c4b744659b0fecb7eae8abc7aedb28b31e88.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/129372</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/0d69c4b744659b0fecb7eae8abc7aedb28b31e88.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/0d69c4b744659b0fecb7eae8abc7aedb28b31e88.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/0d69c4b744659b0fecb7eae8abc7aedb28b31e88.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:129372</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:coverage>Turquie</dc:coverage>
+                    <dc:coverage>Grèce – Macédoine centrale – Thessalonique</dc:coverage>
+                    <dc:creator>Poinsot, Julien (18..-19..?). Photographe</dc:creator>
+                    <dc:date>1895</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PhoGéo1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>120 phot.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 258</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8594587p</dc:identifier>
+                    <dc:identifier>IFN-8594587</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40588838t</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention Société de géographie)</dc:rights>
+                    <dc:rights>restricted use (convention Société de géographie)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Société de Géographie, SG WC-416</dc:source>
+                    <dc:subject>Salonique, Province de</dc:subject>
+                    <dc:subject>Ottoman, Empire</dc:subject>
+                    <dc:subject>Turquie d'Europe</dc:subject>
+                    <dc:subject>Istanbul</dc:subject>
+                    <dc:subject>Izmir</dc:subject>
+                    <dc:subject>Thessalonique</dc:subject>
+                    <dc:title>[120 phot. d'Istanboul, Smyrne, Salonique par Julien Poinsot, don Louis Poinsot en 1895]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>36</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8594587p.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8594587p</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8594587p.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8594587p.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8594587p.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8594587p</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Agence Marée-Breyer (Ivry, Val-de-Marne). Photographe</dc:creator>
+                    <dc:date>1985</dc:date>
+                    <dc:format>213 photogr. nég., 213 photogr. pos. en 6 pl. contact, 1 tirage : n et b. ; formats divers</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 61</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b106061033</dc:identifier>
+                    <dc:identifier>IFN-10606103</dc:identifier>
+                    <dc:language>Sans contenu linguistique</dc:language>
+                    <dc:publisher>Marée-Breyer (Ivry sur Seine)</dc:publisher>
+                    <dc:relation>L'imprésario de Smyrne / mise en scène de Jean-Luc Boutté. - Paris : Comédie-Française, 20-04-1985</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb43661033c</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2019-092615-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2019-092615-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, NEG-PHO-2 (945)</dc:source>
+                    <dc:title>[L'imprésario de Smyrne, texte de Carlo Goldoni : lot de photographies / de l'agence Marée-Breyer]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>37</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b106061033.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b106061033</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b106061033.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b106061033.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b106061033.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b106061033</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Fonteray, Alain. Photographe</dc:creator>
+                    <dc:date>1983</dc:date>
+                    <dc:format>1 photographie ; 50 x 70 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b53181941t</dc:identifier>
+                    <dc:language>Sans contenu linguistique</dc:language>
+                    <dc:relation>L'opéra de Smyrne / mise en scène de Jean-Claude Penchenat. - Antony : Centre Technique, 18-01-1983</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb45378338k</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2015-075700-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, FOL-PHO-41 (2)</dc:source>
+                    <dc:title>[L'Opéra de Smyrne, texte de Carlo Goldoni. Photographie / Alain Fonteray]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>38</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b53181941t.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b53181941t</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b53181941t.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b53181941t.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b53181941t.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b53181941t</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Riocreux</dc:creator>
+                    <dc:date>1863</dc:date>
+                    <dc:date>18..</dc:date>
+                    <dc:description>Gravure extraite de la Revue horticole, 1863.</dc:description>
+                    <dc:description>Réduction d'un tiers.</dc:description>
+                    <dc:format>application/jpeg</dc:format>
+                    <dc:identifier>https://bibliotheque-numerique.hortalia.org/items/show/743</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>La Maison rustique (Paris)</dc:publisher>
+                    <dc:relation>vignette : http://bibliotheque-numerique.hortalia.org/files/thumbnails/21d87ac553d63ab06f2b27a100f8fc05.jpg</dc:relation>
+                    <dc:rights>Domaine public</dc:rights>
+                    <dc:source>Bibliothèque de la Société nationale d'horticulture de France. Fonds ancien</dc:source>
+                    <dc:subject>Fruit</dc:subject>
+                    <dc:title>Sultanieh ou Raisin sans pépins de Smyrne</dc:title>
+                    <dc:type>Still Image</dc:type>
+                    <dc:type>Estampe</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>39</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>http://bibliotheque-numerique.hortalia.org/files/highress/21d87ac553d63ab06f2b27a100f8fc05.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://bibliotheque-numerique.hortalia.org/items/show/743</link>
+                <lowres>http://bibliotheque-numerique.hortalia.org/files/lowress/21d87ac553d63ab06f2b27a100f8fc05.jpg</lowres>
+                <medres>http://bibliotheque-numerique.hortalia.org/files/medress/21d87ac553d63ab06f2b27a100f8fc05.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Hortalia</provenance>
+                <thumbnail>http://bibliotheque-numerique.hortalia.org/files/thumbnails/21d87ac553d63ab06f2b27a100f8fc05.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:hortalia.org:743</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période antique</dc:description>
+                    <dc:description>Technique de l'œuvre représentée : génie civil</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 19,5 ; L : 24,5 cm (image) ; H : 32,5 ; L : 42 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 173</dc:identifier>
+                    <dc:identifier>795136</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101272</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/dccbf87d02a8f4ffb417a35e24de2818312217ae.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>vue d'architecture</dc:subject>
+                    <dc:title>Aqueduc antique</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>40</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/dccbf87d02a8f4ffb417a35e24de2818312217ae.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101272</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/dccbf87d02a8f4ffb417a35e24de2818312217ae.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/dccbf87d02a8f4ffb417a35e24de2818312217ae.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/dccbf87d02a8f4ffb417a35e24de2818312217ae.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101272</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période contemporaine</dc:description>
+                    <dc:description>Technique de l'œuvre représentée : architecture religieuse</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 27 ; L : 18,9 cm (image) ; H : 42 ; L : 32,5 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 176</dc:identifier>
+                    <dc:identifier>795139</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101335</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/e90b1bcf5ce97a6d2458ca037b4773dc911e05b7.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>vue d'architecture</dc:subject>
+                    <dc:title>Eglise Sainte-Photine</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>41</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/e90b1bcf5ce97a6d2458ca037b4773dc911e05b7.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101335</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/e90b1bcf5ce97a6d2458ca037b4773dc911e05b7.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/e90b1bcf5ce97a6d2458ca037b4773dc911e05b7.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/e90b1bcf5ce97a6d2458ca037b4773dc911e05b7.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101335</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Agence Marée-Breyer (Ivry, Val-de-Marne). Photographe</dc:creator>
+                    <dc:date>1985</dc:date>
+                    <dc:format>11 diapositives : coul. ; 24 x 36 mm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 11</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b106121679</dc:identifier>
+                    <dc:identifier>IFN-10612167</dc:identifier>
+                    <dc:language>Sans contenu linguistique</dc:language>
+                    <dc:publisher>Marée-Breyer (Ivry sur Seine)</dc:publisher>
+                    <dc:relation>L'imprésario de Smyrne / mise en scène de Jean-Luc Boutté. - Paris : Comédie-Française, 20-04-1985</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb437309277</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention BnF-ADM-2019-092615-01)</dc:rights>
+                    <dc:rights>restricted use (convention BnF-ADM-2019-092615-01)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arts du spectacle, DIA-PHO-2 (467)</dc:source>
+                    <dc:title>[L'imprésario de Smyrne, texte de Carlo Goldoni : lot de photographies / de l'agence Marée-Breyer]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>42</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b106121679.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b106121679</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b106121679.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b106121679.medres</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b106121679.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b106121679</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Lenoir, Albert (1801-1891)</dc:creator>
+                    <dc:date>19...</dc:date>
+                    <dc:date>1824-01-01</dc:date>
+                    <dc:date>1884-01-01</dc:date>
+                    <dc:description>1824-1884</dc:description>
+                    <dc:description>19e siècle</dc:description>
+                    <dc:description>Nombre de vues du document : 1</dc:description>
+                    <dc:description>Date de numérisation : 2024</dc:description>
+                    <dc:description>Note : Détail de fenêtres à l'intérieur d'une maison et chaussures à Smyrne (Izmir)</dc:description>
+                    <dc:description>Note de contenu : Annotation relative à l'iconographie : Fenêtre au-dessus des grillages ; Dessins signés en bas à droite à la plume : A. Lr</dc:description>
+                    <dc:description>Note complémentaire : De 1830 à 1833, Albert Lenoir séjourne en Italie avec Alexis Cendrier et à partir de 1836 il part en Orient</dc:description>
+                    <dc:description>Documents en rapport : Voir la &lt;a href="https://calames.abes.fr/pub/ms/Calames-20207179702001077" target=_blank"&gt;&lt;b&gt;notice descriptive&lt;/b&gt;&lt;/a&gt; dans Calames (catalogue des archives et des manuscrits des bibliothèques universitaires françaises)</dc:description>
+                    <dc:description>Langue du document : Français</dc:description>
+                    <dc:description>Lieu de publication : [Lieu de publication inconnu]</dc:description>
+                    <dc:format>Papier encollé sur carton, Crayon ; 0,345 x 0,242 m (support) ; 0,129 x 0,114 ; 0,131 x 0,115 m (dessins)</dc:format>
+                    <dc:identifier>https://bibliotheque-numerique.inha.fr/idurl/1/82997</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet</dc:publisher>
+                    <dc:relation>vignette : https://bibliotheque-numerique.inha.fr/i/?IIIF=/67/ce/aa/f5/67ceaaf5-d785-4e87-88fb-28ef69057727/iiif/1078_doucet_OA716_18_117.tif/full/^!256,256/0/default.jpg</dc:relation>
+                    <dc:rights>Institut National d'Histoire de l'Art</dc:rights>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:source>&lt;U&gt;Cote de l'original&lt;/U&gt; : OA 716 (18, 117)</dc:source>
+                    <dc:source>Don d'André Lenoir, petit-fils d'Albert, en 1938</dc:source>
+                    <dc:source>NUM OA 716_18_117</dc:source>
+                    <dc:subject>Izmir (Turquie)</dc:subject>
+                    <dc:subject>Costume -- Empire Ottoman</dc:subject>
+                    <dc:title>Smyrne : d'une maison juive ; Chaussures à Smyrne</dc:title>
+                    <dc:type>Dessin</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>43</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://bibliotheque-numerique.inha.fr/i/?IIIF=/67/ce/aa/f5/67ceaaf5-d785-4e87-88fb-28ef69057727/iiif/1078_doucet_OA716_18_117.tif/full/^!256,256/0/default.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://bibliotheque-numerique.inha.fr/idurl/1/82997</link>
+                <lowres>https://bibliotheque-numerique.inha.fr/i/?IIIF=/67/ce/aa/f5/67ceaaf5-d785-4e87-88fb-28ef69057727/iiif/1078_doucet_OA716_18_117.tif/full/^!256,256/0/default.jpg</lowres>
+                <medres>https://bibliotheque-numerique.inha.fr/i/?IIIF=/67/ce/aa/f5/67ceaaf5-d785-4e87-88fb-28ef69057727/iiif/1078_doucet_OA716_18_117.tif/full/^!256,256/0/default.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Bibliothèque de l'INHA</provenance>
+                <thumbnail>https://bibliotheque-numerique.inha.fr/i/?IIIF=/67/ce/aa/f5/67ceaaf5-d785-4e87-88fb-28ef69057727/iiif/1078_doucet_OA716_18_117.tif/full/^!256,256/0/default.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:bibliotheque-numerique.inha.fr:1:82997</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période contemporaine</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 19 ; L : 24,4 cm (image) ; H : 32,5 ; L : 42 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 181</dc:identifier>
+                    <dc:identifier>795143</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101430</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/3d8a7d5ca621412ead97bfbdb8840cc214afa565.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>paysage</dc:subject>
+                    <dc:title>Caravane de chameaux</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>44</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/3d8a7d5ca621412ead97bfbdb8840cc214afa565.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101430</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/3d8a7d5ca621412ead97bfbdb8840cc214afa565.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/3d8a7d5ca621412ead97bfbdb8840cc214afa565.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/3d8a7d5ca621412ead97bfbdb8840cc214afa565.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101430</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:description>Présentation du contenu : Un tableau comparatif (4 feuillets manuscrits), un tableau comparatif des deux Vaticanus Graecus (167 feuillets manuscrits).</dc:description>
+                    <dc:description>Contexte : Fonds Gabriel Millet &gt; Recherche &gt; Documentation &gt; Notes de travail par dossiers thématiques &gt; Liturgie et livres religieux.</dc:description>
+                    <dc:identifier>https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?c=FR075CDF_00CDF0051_pa-343</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>notice : https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?c=FR075CDF_00CDF0051_pa-343</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:source>51 CDF 87/8</dc:source>
+                    <dc:title>Comparaison des Octateuques de Vatopédi, Vaticanus Greacus 746, Vaticanus Graecus 747, Sérail et Smyrne.</dc:title>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>45</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres></highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?c=FR075CDF_00CDF0051_pa-343</link>
+                <lowres></lowres>
+                <medres></medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>Collège de France</provenance>
+                <thumbnail></thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:salamandre.college-de-france.fr:ead/FR075CDF_00CDF0051_pa-343</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période contemporaine</dc:description>
+                    <dc:description>Technique de l'œuvre représentée : urbanisme</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 18,1 ; L : 22,3 cm (image) ; H : 32,5 ; L : 42 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 171</dc:identifier>
+                    <dc:identifier>795135</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101251</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/b7ccd968f31aaa78c5a4085abd26fdb21d52ec1a.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>vue d'architecture</dc:subject>
+                    <dc:title>Port, vue panoramique</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>46</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/b7ccd968f31aaa78c5a4085abd26fdb21d52ec1a.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101251</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/b7ccd968f31aaa78c5a4085abd26fdb21d52ec1a.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/b7ccd968f31aaa78c5a4085abd26fdb21d52ec1a.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/b7ccd968f31aaa78c5a4085abd26fdb21d52ec1a.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101251</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période contemporaine</dc:description>
+                    <dc:description>Technique de l'œuvre représentée : urbanisme</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 17,8 ; L : 24,6 cm (image) ; H : 32,5 ; L : 42 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 166</dc:identifier>
+                    <dc:identifier>795133</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101199</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/fa6fe57d7e319c0d8a238ba8012dd3d599c37827.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>vue d'architecture</dc:subject>
+                    <dc:title>Port, vue panoramique</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>47</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/fa6fe57d7e319c0d8a238ba8012dd3d599c37827.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101199</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/fa6fe57d7e319c0d8a238ba8012dd3d599c37827.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/fa6fe57d7e319c0d8a238ba8012dd3d599c37827.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/fa6fe57d7e319c0d8a238ba8012dd3d599c37827.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101199</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période contemporaine</dc:description>
+                    <dc:description>Technique de l'œuvre représentée : génie civil</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 18,4 ; L : 22,7 cm (image) ; H : 32,5 ; L : 42 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 182</dc:identifier>
+                    <dc:identifier>795144</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101451</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/2cfd8cc101c62d416d6551f6c020a935cfe22bb6.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>vue d'architecture</dc:subject>
+                    <dc:title>Pont moderne</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>48</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/2cfd8cc101c62d416d6551f6c020a935cfe22bb6.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101451</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/2cfd8cc101c62d416d6551f6c020a935cfe22bb6.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/2cfd8cc101c62d416d6551f6c020a935cfe22bb6.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/2cfd8cc101c62d416d6551f6c020a935cfe22bb6.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101451</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>anonyme</dc:creator>
+                    <dc:date>4e quart 19e siècle</dc:date>
+                    <dc:description>Localisation de l'œuvre représentée : Turquie ; Smyrne</dc:description>
+                    <dc:description>Période de l'œuvre représentée : période antique</dc:description>
+                    <dc:description>Technique de l'œuvre représentée : génie civil</dc:description>
+                    <dc:format>tirage photographique</dc:format>
+                    <dc:format>H : 18,3 ; L : 23,4 cm (image) ; H : 32,5 ; L : 42 cm (support)</dc:format>
+                    <dc:identifier>Série B / N° 184</dc:identifier>
+                    <dc:identifier>795147</dc:identifier>
+                    <dc:identifier>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101514</dc:identifier>
+                    <dc:relation>vignette : https://1886.u-bordeaux-montaigne.fr/files/medium/d5d737c9ca75d061111dcb1bbcd85047f205fc1d.jpg</dc:relation>
+                    <dc:rights>À déterminer en fonction de l'auteur de l'image. Nous contacter pour plus de détails.</dc:rights>
+                    <dc:subject>vue d'architecture</dc:subject>
+                    <dc:title>Aqueduc antique</dc:title>
+                    <dc:type>1886:Image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>49</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://1886.u-bordeaux-montaigne.fr/files/medium/d5d737c9ca75d061111dcb1bbcd85047f205fc1d.jpg</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://1886.u-bordeaux-montaigne.fr/s/1886/item/101514</link>
+                <lowres>https://1886.u-bordeaux-montaigne.fr/files/medium/d5d737c9ca75d061111dcb1bbcd85047f205fc1d.jpg</lowres>
+                <medres>https://1886.u-bordeaux-montaigne.fr/files/medium/d5d737c9ca75d061111dcb1bbcd85047f205fc1d.jpg</medres>
+                <nqamoyen>0.0</nqamoyen>
+                <provenance>1886 - Collections patrimoniales numérisées de Bordeaux 3</provenance>
+                <thumbnail>https://1886.u-bordeaux-montaigne.fr/files/medium/d5d737c9ca75d061111dcb1bbcd85047f205fc1d.jpg</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>oai:u-bordeaux-montaigne.fr:101514</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>51</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

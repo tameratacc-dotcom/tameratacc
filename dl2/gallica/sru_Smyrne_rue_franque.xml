@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:ns6="http://gallica.bnf.fr/namespaces/gallica/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:query>(gallica all "Smyrne rue franque") and (dc.type all "image")</srw:query>
+        <srw:version>1.2</srw:version>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>4</srw:numberOfRecords>
+    <srw:extraResponseData>&lt;numberOfRecordsDecollapser&gt;4&lt;/numberOfRecordsDecollapser&gt;</srw:extraResponseData>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Taylor, Justin (1789-1879). Auteur du texte</dc:creator>
+                    <dc:date>1857</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>5 vol. : fig., pl. et plans ; Fol.</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 180</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8452165r</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>A.-F. Lemaître (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb42496574p</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb424969812</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, FOL-UB-23 (A)</dc:source>
+                    <dc:title>Voyages pittoresques et romantiques dans l'ancienne France / par MM. Ch. Nodier, J. Taylor et Alph. de Cailleux</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>0</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8452165r</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.medres</medres>
+                <nqamoyen>99.84</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8452165r.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8452165r</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>Grasset Saint-Sauveur, Jacques (1757-1810). Auteur du texte. Dessinateur du modèle</dc:creator>
+                    <dc:creator>Mixelle, Félix (1763-1837). Graveur</dc:creator>
+                    <dc:creator>Maréchal, Sylvain (1750-1803). Auteur du texte</dc:creator>
+                    <dc:creator>Desrais, Claude-Louis (1746-1816). Dessinateur du modèle</dc:creator>
+                    <dc:creator>Ridé (17..-18.. ; graveur). Graveur</dc:creator>
+                    <dc:date>1784-1788</dc:date>
+                    <dc:description>Référence bibliographique : IFF18, Grasset de Saint- Sauveur, 3</dc:description>
+                    <dc:description>Référence bibliographique : Cohen, 677</dc:description>
+                    <dc:description>Référence bibliographique : Colas, 1289, 1290, 1291</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Illustration</dc:description>
+                    <dc:format>306 est. : eau-forte, outils, colorié à main levée</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 707</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b86220511</dc:identifier>
+                    <dc:identifier>IFN-8622051</dc:identifier>
+                    <dc:publisher>Pavard (Paris)</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb402688602</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb402688602</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Arsenal, 4-H-7572 (2)</dc:source>
+                    <dc:subject>Costumes -- 1701-1788</dc:subject>
+                    <dc:title>Costumes Civils actuels de tous les Peuples connus. / [planches dessinées par Desrais] ; [et par Jacques Grasset de Saint-Sauveur] ; [gravé par Felix Mixelle] ; [notices rédigées par Sylvain Maréchal]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>estampe</dc:type>
+                    <dc:type>engraving</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>1</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b86220511.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b86220511</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b86220511.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b86220511.medres</medres>
+                <nqamoyen>100.0</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b86220511.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b86220511</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:creator>David, F. A.. Illustrateur</dc:creator>
+                    <dc:creator>Mulot. Auteur du texte</dc:creator>
+                    <dc:date>1787</dc:date>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>2 tomes en 2 vol. in-4, pl. au bistre</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 467</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b8490114x</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>Paris [rue des Cordeliers], l'auteur, 1787</dc:publisher>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb40341118d</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40341118d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Estampes et photographie, 4-AB-54</dc:source>
+                    <dc:title>Le Museum de Florence ou collection des pierres gravées, statues, médailles et peintures qui se trouvent à Florence, principalement dans le cabinet du Grand Duc de Toscane... / gravé par M. David, avec des explications françaises par M. ; Mulot...</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>2</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b8490114x</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.medres</medres>
+                <nqamoyen>99.94</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b8490114x.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b8490114x</uri>
+            </srw:extraRecordData>
+        </srw:record>
+        <srw:record>
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>190.</dc:date>
+                    <dc:description>Appartient à l’ensemble documentaire : PhoGéo1</dc:description>
+                    <dc:description>Appartient à l’ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>Album 272 phot., fasc. 1 à 8, 10 à 15, 17 à</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 478</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b84789292</dc:identifier>
+                    <dc:identifier>IFN-8478929</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40588368c</dc:relation>
+                    <dc:rights>conditions spécifiques d'utilisation (sous convention Société de géographie)</dc:rights>
+                    <dc:rights>restricted use (convention Société de géographie)</dc:rights>
+                    <dc:source>Bibliothèque nationale de France, département Société de Géographie, SG W-116</dc:source>
+                    <dc:title>[Album universel. Paris, L. Boulanger. 272 phot., fasc. 1 à 8, 10 à 15, 17 à 19, début XXe siècle, don Mayeras en 1929]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>3</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile></epubFile>
+                <highres>https://gallica.bnf.fr/ark:/12148/btv1b84789292.highres</highres>
+                <infoSupModifiable></infoSupModifiable>
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b84789292</link>
+                <lowres>https://gallica.bnf.fr/ark:/12148/btv1b84789292.lowres</lowres>
+                <medres>https://gallica.bnf.fr/ark:/12148/btv1b84789292.medres</medres>
+                <nqamoyen>99.77</nqamoyen>
+                <provenance>Gallica</provenance>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b84789292.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b84789292</uri>
+            </srw:extraRecordData>
+        </srw:record>
+    </srw:records>
+    <srw:nextRecordPosition>51</srw:nextRecordPosition>
+</srw:searchRetrieveResponse>

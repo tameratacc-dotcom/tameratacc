@@ -1,0 +1,3204 @@
+{"search":{
+    "field": null, 
+    "hits": 309, 
+    "sort_order": null, 
+    "do_facets": true, 
+    "focus_item": null, 
+    "query": "Smyrna", 
+    "type": "search", 
+    "sort_by": null
+},
+"focus":null,
+"views":{
+    "current": "list", 
+    "grid": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&st=grid", 
+    "list": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100", 
+    "gallery": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&st=gallery", 
+    "slideshow": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&st=slideshow"
+},
+"facets":[
+    {
+        "type": "displayed", 
+        "filters": [
+            {
+                "count": 279, 
+                "on": "https://www.loc.gov/pictures/search/?q=Smyrna&fa=displayed%3Aanywhere&c=100&sp=1&fo=json", 
+                "selected": false, 
+                "off": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=1&fo=json", 
+                "title": "Larger image available anywhere"
+            }, 
+            {
+                "count": 23, 
+                "on": "https://www.loc.gov/pictures/search/?q=Smyrna&fa=displayed%3Alc_only&c=100&sp=1&fo=json", 
+                "selected": false, 
+                "off": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=1&fo=json", 
+                "title": "Larger image available only at the Library of Congress"
+            }, 
+            {
+                "count": 7, 
+                "on": "https://www.loc.gov/pictures/search/?q=Smyrna&fa=displayed%3Anot_digitized&c=100&sp=1&fo=json", 
+                "selected": false, 
+                "off": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=1&fo=json", 
+                "title": "Not Digitized"
+            }, 
+            {
+                "count": 19, 
+                "on": "https://www.loc.gov/pictures/search/?q=Smyrna&fa=displayed%3Asurveys_only&c=100&sp=1&fo=json", 
+                "selected": false, 
+                "off": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=1&fo=json", 
+                "title": "Surveys only"
+            }
+        ], 
+        "title": "displayed"
+    }
+],
+"links":{
+    "json": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&fo=json", 
+    "html": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100", 
+    "rss": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&fo=rss"
+},
+"suggestions":{
+    "possible": []
+},
+"pages":{
+    "current": 1, 
+    "next": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=2", 
+    "perpage": 100, 
+    "last": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=4", 
+    "page_list": [
+        {
+            "url": null, 
+            "number": 1
+        }, 
+        {
+            "url": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=2", 
+            "number": 2
+        }, 
+        {
+            "url": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=3", 
+            "number": 3
+        }, 
+        {
+            "url": "https://www.loc.gov/pictures/search/?q=Smyrna&c=100&sp=4", 
+            "number": 4
+        }
+    ], 
+    "previous": null, 
+    "total": 4, 
+    "results": "1 - 100", 
+    "first": null
+},
+"collection":null,
+"results":[
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 1, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68263 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756484/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756484/resource/"
+        }, 
+        "title": "Somewhat obscured in this town mural is the name of the town in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68263r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68263_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68263_150px.jpg"
+        }, 
+        "created": "2022-06-14T07:17:34Z", 
+        "modified": "2022-06-14T07:17:36Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68263 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:33Z", 
+        "pk": "2021756484", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "murals", 
+            "Colorful houses", 
+            "Carpe Artista", 
+            "Smyrna Artists Cooperative", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 2, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.photos.053887p/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.photos.053887p/resource/"
+        }, 
+        "title": "1.  HISTORIC AMERICAN BUILDINGS SURVEY. R.H.LESESNE, PHOTOGRAPHER. 1934. GENERAL VIEW FROM SOUTH. - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053887pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053887p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053887p_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1--1", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.photos.053887p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 3, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.photos.053888p/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.photos.053888p/resource/"
+        }, 
+        "title": "2.  HISTORIC AMERICAN BUILDINGS SURVEY. R.H.LESESNE, PHOTOGRAPHER. Feb.? 1934. NORTH-WEST VIEW-REFECTORY - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053888pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053888p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053888p_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1--2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.photos.053888p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 4, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.photos.053889p/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.photos.053889p/resource/"
+        }, 
+        "title": "3.  HISTORIC AMERICAN BUILDINGS SURVEY. R.H.LESESNE, PHOTOGRAPHER, FEB. 1934. N-E VIEW THRU ARCH TO CHAPEL. - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053889pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053889p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053889p_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1--3", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.photos.053889p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 5, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.photos.053890p/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.photos.053890p/resource/"
+        }, 
+        "title": "4.  HISTORIC AMERICAN BUILDINGS SURVEY. R.H.LESESNE, PHOTOGRAPHER. (Feb.)? 1934. CHAPEL ENTRANCE. - S.W. - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053890pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053890p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053890p_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1--4", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.photos.053890p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 6, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1--5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.photos.053891p/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.photos.053891p/resource/"
+        }, 
+        "title": "5.  HISTORIC AMERICAN BUILDINGS SURVEY. R.H.LESESNE, PHOTOGRAPHER. Feb.? 1934. SOUTH WALL OF CHAPEL. - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053891pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053891p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053891p_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1--5", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.photos.053891p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 7, 
+        "medium": "19 x 24 in. (B size)", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1- (sheet 0 of 3)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.sheet.00000a/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.sheet.00000a/resource/"
+        }, 
+        "title": "HABS FLA,64-NESM.V,1- (sheet 0 of 3) - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00000r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00000_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00000_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1- (sheet 0 of 3)", 
+        "medium_brief": "19 x 24 in. (B size)", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.sheet.00000a", 
+        "created_published_date": null, 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 8, 
+        "medium": "19 x 24 in. (B size)", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1- (sheet 1 of 3)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.sheet.00001a/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.sheet.00001a/resource/"
+        }, 
+        "title": "HABS FLA,64-NESM.V,1- (sheet 1 of 3) - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00001r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00001_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00001_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1- (sheet 1 of 3)", 
+        "medium_brief": "19 x 24 in. (B size)", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.sheet.00001a", 
+        "created_published_date": null, 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 9, 
+        "medium": "19 x 24 in. (B size)", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1- (sheet 2 of 3)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.sheet.00002a/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.sheet.00002a/resource/"
+        }, 
+        "title": "HABS FLA,64-NESM.V,1- (sheet 2 of 3) - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00002r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00002_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00002_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1- (sheet 2 of 3)", 
+        "medium_brief": "19 x 24 in. (B size)", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.sheet.00002a", 
+        "created_published_date": null, 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 10, 
+        "medium": "19 x 24 in. (B size)", 
+        "reproduction_number": "HABS FLA,64-NESM.V,1- (sheet 3 of 3)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303.sheet.00003a/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303.sheet.00003a/resource/"
+        }, 
+        "title": "HABS FLA,64-NESM.V,1- (sheet 3 of 3) - New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00003r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00003_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/sheet/00003_150px.jpg"
+        }, 
+        "created": "2020-03-20T00:00:00Z", 
+        "modified": "2020-03-20T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS FLA,64-NESM.V,1- (sheet 3 of 3)", 
+        "medium_brief": "19 x 24 in. (B size)", 
+        "source_modified": "2020-03-20T00:00:00Z", 
+        "pk": "fl0303.sheet.00003a", 
+        "created_published_date": null, 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 11, 
+        "medium": "5", 
+        "reproduction_number": null, 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/fl0303/", 
+            "resource": "https://www.loc.gov/pictures/item/fl0303/resource/"
+        }, 
+        "title": "New Smyrna Sugar Mill (ruins), New Smyrna (historical), Volusia County, FL", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053887pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053887p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/fl/fl0300/fl0303/photos/053887p_150px.jpg"
+        }, 
+        "created": "2020-03-20T17:17:11Z", 
+        "modified": "2024-12-13T18:20:41Z", 
+        "collection": [
+            "diof", 
+            "hh", 
+            "survey"
+        ], 
+        "creator": "Historic American Buildings Survey", 
+        "call_number": "HABS FLA,64-NESM.V,1-", 
+        "medium_brief": "Photo(s): 5, Measured Drawing(s): 4, Data Page(s): 5", 
+        "source_modified": "2020-03-20T17:17:00Z", 
+        "pk": "fl0303", 
+        "created_published_date": "Documentation compiled after 1933", 
+        "subjects": [
+            "sugar mills", 
+            "ruins", 
+            "missions", 
+            "ashlar", 
+            "arcades (architectural components)", 
+            "ovens", 
+            "coquina limestone"
+        ]
+    }, 
+    {
+        "source_created": "2007-01-03T00:00:00Z", 
+        "index": 12, 
+        "medium": "1 negative : nitrate ; 4 x 5 in.", 
+        "reproduction_number": "LC-DIG-matpc-15133 (digital file from original)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2019705913/", 
+            "resource": "https://www.loc.gov/pictures/item/2019705913/resource/"
+        }, 
+        "title": "Smyrna. Smyrna from the sea", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/matpc/15100/15133r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/matpc/15100/15133_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/matpc/15100/15133_150px.jpg"
+        }, 
+        "created": "2020-01-14T00:00:00Z", 
+        "modified": "2020-01-14T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "matpc", 
+            "minload", 
+            "pp"
+        ], 
+        "creator": "American Colony (Jerusalem). Photo Department", 
+        "call_number": "LC-M33- 2213 [P&P]", 
+        "medium_brief": "1 negative :", 
+        "source_modified": "2020-01-08T00:00:00Z", 
+        "pk": "2019705913", 
+        "created_published_date": "[approximately 1922 to 1930]", 
+        "subjects": [
+            "Turkey--\u0131zmir.", 
+            "Nitrate negatives."
+        ]
+    }, 
+    {
+        "source_created": "2024-05-22T00:00:00Z", 
+        "index": 13, 
+        "medium": "1 print : photomechanical print ; sheet 9 x 14 cm (postcard format)", 
+        "reproduction_number": "LC-DIG-pcrd-1a03240 (digital file from original, front)\nLC-DIG-pcrd-2a03240 (digital file from original, back)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2025664698/", 
+            "resource": "https://www.loc.gov/pictures/item/2025664698/resource/"
+        }, 
+        "title": "Old Spanish Canal, New Smyrna, Fla.", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03200/1a03240_150px.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03200/1a03240_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03200/1a03240_150px.jpg"
+        }, 
+        "created": "2025-03-04T06:50:37Z", 
+        "modified": "2025-03-04T06:50:39Z", 
+        "collection": [
+            "pcrd", 
+            "pp"
+        ], 
+        "creator": null, 
+        "call_number": "PCRD 1 - Florida - New Smyrna, no. 1 [P&P]", 
+        "medium_brief": "1 print :", 
+        "source_modified": "2025-02-28T09:43:55Z", 
+        "pk": "2025664698", 
+        "created_published_date": "[between 1900 and 1940]", 
+        "subjects": [
+            "United States--Florida--New Smyrna.", 
+            "Postcards--1900-1940."
+        ]
+    }, 
+    {
+        "source_created": "1994-01-01T00:00:00Z", 
+        "index": 14, 
+        "medium": "1 negative : glass ; 8 x 10 in.", 
+        "reproduction_number": "LC-DIG-det-4a05663 (digital file from original)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2016798970/", 
+            "resource": "https://www.loc.gov/pictures/item/2016798970/resource/"
+        }, 
+        "title": "Ruins of old fort, New Smyrna, Fla.", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a05000/4a05600/4a05663r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a05000/4a05600/4a05663_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a05000/4a05600/4a05663_150px.jpg"
+        }, 
+        "created": "2017-11-21T00:00:00Z", 
+        "modified": "2017-11-21T00:00:00Z", 
+        "collection": [
+            "ammem", 
+            "det", 
+            "diof", 
+            "pp"
+        ], 
+        "creator": "Detroit Publishing Co.", 
+        "call_number": "LC-D4-9205 [P&P]", 
+        "medium_brief": "1 negative :", 
+        "source_modified": "2017-10-24T00:00:00Z", 
+        "pk": "2016798970", 
+        "created_published_date": "c1904.", 
+        "subjects": [
+            "Forts & fortification.", 
+            "Ruins.", 
+            "United States--Florida--New Smyrna Beach.", 
+            "Dry plate negatives."
+        ]
+    }, 
+    {
+        "source_created": "1994-01-01T00:00:00Z", 
+        "index": 15, 
+        "medium": "1 negative : glass ; 8 x 10 in.", 
+        "reproduction_number": "LC-DIG-det-4a11879 (digital file from original)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2016803935/", 
+            "resource": "https://www.loc.gov/pictures/item/2016803935/resource/"
+        }, 
+        "title": "East coast railway station, New Smyrna, Fla.", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a11000/4a11800/4a11879r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a11000/4a11800/4a11879_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a11000/4a11800/4a11879_150px.jpg"
+        }, 
+        "created": "2017-11-21T00:00:00Z", 
+        "modified": "2017-11-21T00:00:00Z", 
+        "collection": [
+            "ammem", 
+            "det", 
+            "diof", 
+            "pp"
+        ], 
+        "creator": "Detroit Publishing Co.", 
+        "call_number": "LC-D4-17637 [P&P]", 
+        "medium_brief": "1 negative :", 
+        "source_modified": "2017-10-27T00:00:00Z", 
+        "pk": "2016803935", 
+        "created_published_date": "c1904.", 
+        "subjects": [
+            "Railroad stations.", 
+            "United States--Florida--New Smyrna Beach.", 
+            "Dry plate negatives."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 16, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68258 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756479/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756479/resource/"
+        }, 
+        "title": "Scene in the Buckle & Hide Leatherworks shop in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68258r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68258_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68258_150px.jpg"
+        }, 
+        "created": "2022-06-14T07:47:36Z", 
+        "modified": "2022-06-14T07:47:38Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68258 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:32Z", 
+        "pk": "2021756479", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "Buckle and Hide Leatherworks Shop", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 17, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68259 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756480/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756480/resource/"
+        }, 
+        "title": "Scene in the Buckle & Hide Leatherworks shop in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68259r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68259_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68259_150px.jpg"
+        }, 
+        "created": "2022-06-14T12:01:37Z", 
+        "modified": "2022-06-14T12:01:39Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68259 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:32Z", 
+        "pk": "2021756480", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "Buckle and Hide Leatherworks Shop", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 18, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68260 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756481/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756481/resource/"
+        }, 
+        "title": "Scene in the Buckle & Hide Leatherworks shop in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68260r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68260_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68260_150px.jpg"
+        }, 
+        "created": "2022-06-14T06:35:25Z", 
+        "modified": "2022-06-14T06:35:26Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68260 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:32Z", 
+        "pk": "2021756481", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "Buckle and Hide Leatherworks Shop", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 19, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68261 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756482/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756482/resource/"
+        }, 
+        "title": "Scene in the Buckle & Hide Leatherworks shop in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68261r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68261_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68261_150px.jpg"
+        }, 
+        "created": "2022-06-14T06:35:26Z", 
+        "modified": "2022-06-14T06:35:28Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68261 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:32Z", 
+        "pk": "2021756482", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "Buckle and Hide Leatherworks Shop", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 20, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68262 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756483/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756483/resource/"
+        }, 
+        "title": "Postcard-like welcome mural in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68262r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68262_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68262_150px.jpg"
+        }, 
+        "created": "2022-06-14T08:40:43Z", 
+        "modified": "2022-06-14T08:40:45Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68262 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:33Z", 
+        "pk": "2021756483", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "Welcome murals", 
+            "Suzanne Lebeau", 
+            "Postcard murals", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 21, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68264 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756485/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756485/resource/"
+        }, 
+        "title": "Colorful playground in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68264r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68264_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68264_150px.jpg"
+        }, 
+        "created": "2022-06-14T08:05:33Z", 
+        "modified": "2022-06-14T08:05:35Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68264 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:33Z", 
+        "pk": "2021756485", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "playgrounds", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2022-06-01T00:00:00Z", 
+        "index": 22, 
+        "medium": "1 photograph : digital, tiff file, color.", 
+        "reproduction_number": "LC-DIG-highsm-68265 (original digital file)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2021756486/", 
+            "resource": "https://www.loc.gov/pictures/item/2021756486/resource/"
+        }, 
+        "title": "A U.S. Navy fighter jet at the Lee Victory Recreational Park in Smyrna, an exurban town near Nashville in Rutherford County, Tennessee, salutes a decorated pilot", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68265r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68265_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/highsm/68200/68265_150px.jpg"
+        }, 
+        "created": "2022-06-14T08:59:31Z", 
+        "modified": "2022-06-14T08:59:33Z", 
+        "collection": [
+            "diof", 
+            "highsm", 
+            "pp"
+        ], 
+        "creator": "Highsmith, Carol M., 1946-", 
+        "call_number": "LC-DIG-highsm- 68265 (ONLINE) [P&P]", 
+        "medium_brief": "1 photograph :", 
+        "source_modified": "2022-06-09T14:46:33Z", 
+        "pk": "2021756486", 
+        "created_published_date": "2021-10-16.", 
+        "subjects": [
+            "United States--Tennessee--Rutherford County--Smyrna.", 
+            "America", 
+            "Jeff Kuss", 
+            "Jeff Kuss Memorial", 
+            "Great Tennessee Airshow", 
+            "U.S. Navy Blue Angels", 
+            "Digital photographs--Color--2020-2030."
+        ]
+    }, 
+    {
+        "source_created": "2005-02-07T00:00:00Z", 
+        "index": 23, 
+        "medium": "1 photographic print on stereo card : stereograph, albumen.", 
+        "reproduction_number": "LC-USZ62-57599 (b&w film copy neg. of half stereo)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2005677900/", 
+            "resource": "https://www.loc.gov/pictures/item/2005677900/resource/"
+        }, 
+        "title": "Bee hives, New Smyrna, Florida", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05400/3b05418r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05400/3b05418_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05400/3b05418_150px.jpg"
+        }, 
+        "created": "2023-08-01T06:09:05Z", 
+        "modified": "2023-08-01T06:09:06Z", 
+        "collection": [
+            "diof", 
+            "pp", 
+            "stereo"
+        ], 
+        "creator": "Mitchell, J. S. (John S.), 1845-", 
+        "call_number": "LOT 13898, no. 1 [P&P]", 
+        "medium_brief": "1 photographic print on stereo card :", 
+        "source_modified": "2023-07-26T15:13:45Z", 
+        "pk": "2005677900", 
+        "created_published_date": "[between 1870 and 1890]", 
+        "subjects": [
+            "Bee culture--Florida--New Smyrna Beach--1870-1890.", 
+            "Albumen prints--1870-1890.", 
+            "Stereographs--1870-1890."
+        ]
+    }, 
+    {
+        "source_created": "2009-06-12T00:00:00Z", 
+        "index": 24, 
+        "medium": "1 photographic print.", 
+        "reproduction_number": "LC-USZ62-138555 (b&w film copy neg.)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2009632454/", 
+            "resource": "https://www.loc.gov/pictures/item/2009632454/resource/"
+        }, 
+        "title": "Tomb of Polycarp - Smyrna", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c38000/3c38500/3c38555r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c38000/3c38500/3c38555_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c38000/3c38500/3c38555_150px.jpg"
+        }, 
+        "created": "2016-04-21T00:00:00Z", 
+        "modified": "2016-04-21T00:00:00Z", 
+        "collection": [
+            "cph", 
+            "diof", 
+            "pp"
+        ], 
+        "creator": "Bain, Robert E. M. (Robert Edward Mather), 1858-1932", 
+        "call_number": "LOT 3249 [item] [P&P]", 
+        "medium_brief": "1 photographic print.", 
+        "source_modified": "2011-11-28T00:00:00Z", 
+        "pk": "2009632454", 
+        "created_published_date": "1895 March 22.", 
+        "subjects": [
+            "Polycarp,--Saint, Bishop of Smyrna.", 
+            "Cemeteries--Turkey--\u0130zmir--1890-1900.", 
+            "Stone walls--Turkey--\u0130zmir--1890-1900.", 
+            "Tombs & sepulchral monuments--Turkey--\u0130zmir--1890-1900.", 
+            "Photographic prints--1890-1900."
+        ]
+    }, 
+    {
+        "source_created": "2009-06-10T00:00:00Z", 
+        "index": 25, 
+        "medium": "1 photographic print on stereo card : stereograph.", 
+        "reproduction_number": "LC-DIG-stereo-1s40196 (digital file from original)\nLC-USZ62-138542 (b&w film copy neg.)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/2009632296/", 
+            "resource": "https://www.loc.gov/pictures/item/2009632296/resource/"
+        }, 
+        "title": "The tomb of St. Polycarp, the first Christian martyr, Smyrna, Turkey in Asia", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/stereo/1s40000/1s40000/1s40100/1s40196r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/stereo/1s40000/1s40000/1s40100/1s40196_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/stereo/1s40000/1s40000/1s40100/1s40196_150px.jpg"
+        }, 
+        "created": "2022-07-05T07:26:34Z", 
+        "modified": "2022-07-05T07:26:37Z", 
+        "collection": [
+            "diof", 
+            "pp", 
+            "stereo"
+        ], 
+        "creator": "Graves, C. H. (Carleton H.), -1943", 
+        "call_number": "STEREO FOREIGN GEOG FILE - Turkey--Izmir [item] [P&P]", 
+        "medium_brief": "1 photographic print on stereo card :", 
+        "source_modified": "2022-06-29T17:55:33Z", 
+        "pk": "2009632296", 
+        "created_published_date": "c1904 September 6.", 
+        "subjects": [
+            "Polycarp,--Saint, Bishop of Smyrna--Tomb--Turkey--\u0130zmir.", 
+            "Tombs & sepulchral monuments--Turkey--\u0130zmir--1900-1910.", 
+            "Photographic prints--1900-1910.", 
+            "Stereographs--1900-1910."
+        ]
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 26, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1-A--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0230.photos.031958p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0230.photos.031958p/resource/"
+        }, 
+        "title": "1.  OUTBUILDING ON LEFT, SMOKEHOUSE ON RIGHT - Allee House, Smokehouse, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0230/photos/031958pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0230/photos/031958p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0230/photos/031958p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1-A--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0230.photos.031958p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 27, 
+        "medium": "1", 
+        "reproduction_number": null, 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0230/", 
+            "resource": "https://www.loc.gov/pictures/item/de0230/resource/"
+        }, 
+        "title": "Allee House, Smokehouse, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0230/photos/031958pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0230/photos/031958p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0230/photos/031958p_150px.jpg"
+        }, 
+        "created": "2016-04-17T03:48:42Z", 
+        "modified": "2024-12-13T16:27:01Z", 
+        "collection": [
+            "diof", 
+            "hh", 
+            "survey"
+        ], 
+        "creator": "Historic American Buildings Survey", 
+        "call_number": "HABS DEL,2-SMYR.V,1-A-", 
+        "medium_brief": "Photo(s): 1, Photo Caption Page(s): 1", 
+        "source_modified": "2016-04-17T03:48:00Z", 
+        "pk": "de0230", 
+        "created_published_date": "Documentation compiled after 1933", 
+        "subjects": [
+            "smokehouses"
+        ]
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 28, 
+        "medium": "5", 
+        "reproduction_number": null, 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0290/", 
+            "resource": "https://www.loc.gov/pictures/item/de0290/resource/"
+        }, 
+        "title": "Odd Fellows Cemetery Gate, Route 13 North of Route 12, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031302pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031302p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031302p_150px.jpg"
+        }, 
+        "created": "2016-04-17T03:53:16Z", 
+        "modified": "2024-12-13T16:27:08Z", 
+        "collection": [
+            "diof", 
+            "hh", 
+            "survey"
+        ], 
+        "creator": "Historic American Buildings Survey", 
+        "call_number": "HABS DEL,1-SMYR,8-", 
+        "medium_brief": "Photo(s): 5, Data Page(s): 2, Photo Caption Page(s): 1", 
+        "source_modified": "2016-04-17T03:53:00Z", 
+        "pk": "de0290", 
+        "created_published_date": "Documentation compiled after 1933", 
+        "subjects": [
+            "cemeteries", 
+            "gates"
+        ]
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 29, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,6--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0035.photos.031295p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0035.photos.031295p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 VIEW FROM NORTH ON COMMERCE STREET - Benjamin Benson House, 123 West Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0035/photos/031295pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0035/photos/031295p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0035/photos/031295p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,6--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0035.photos.031295p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 30, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,2--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0036.photos.031286p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0036.photos.031286p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 VIEW FROM NORTH - Enoch Spruance House, 117 East Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031286pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031286p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031286p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,2--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0036.photos.031286p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 31, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,2--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0036.photos.031287p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0036.photos.031287p/resource/"
+        }, 
+        "title": "2.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 DECORATED DOORWAY IN LIVING ROOM - Enoch Spruance House, 117 East Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031287pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031287p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031287p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,2--2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0036.photos.031287p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 32, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,2--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0036.photos.031288p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0036.photos.031288p/resource/"
+        }, 
+        "title": "3.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 LIVING ROOM MANTEL - Enoch Spruance House, 117 East Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031288pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031288p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031288p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,2--3", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0036.photos.031288p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 33, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,2--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0036.photos.031289p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0036.photos.031289p/resource/"
+        }, 
+        "title": "4.  VIEW SOUTHWEST SHOWING NORTH (FRONT) AND ELEVATIONS - Enoch Spruance House, 117 East Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031289pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031289p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0036/photos/031289p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,2--4", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0036.photos.031289p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 34, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,5--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0037.photos.031294p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0037.photos.031294p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov.24, 1936 VIEW FROM SOUTH - Pope-Mustard Mansion, 204 West Mount Vernon Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0037/photos/031294pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0037/photos/031294p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0037/photos/031294p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,5--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0037.photos.031294p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 35, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,3--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0038.photos.031290p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0038.photos.031290p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov.24, 1936 VIEW FROM SOUTH EAST - Abraham Pierce House, 12 East Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0038/photos/031290pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0038/photos/031290p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0038/photos/031290p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,3--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0038.photos.031290p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 36, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,3--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0038.photos.031291p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0038.photos.031291p/resource/"
+        }, 
+        "title": "2.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 VIEW FROM NORTH - Abraham Pierce House, 12 East Commerce Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0038/photos/031291pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0038/photos/031291p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0038/photos/031291p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,3--2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0038.photos.031291p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 37, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,4--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0039.photos.031292p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0039.photos.031292p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 VIEW FROM NORTH - Cummins-Stockley House, 215 North Main Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0039/photos/031292pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0039/photos/031292p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0039/photos/031292p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,4--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0039.photos.031292p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 38, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,4--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0039.photos.031293p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0039.photos.031293p/resource/"
+        }, 
+        "title": "2.  VIEW SOUTHWEST SHOWING EAST FRONT AND NORTH ELEVATIONS - Cummins-Stockley House, 215 North Main Street, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0039/photos/031293pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0039/photos/031293p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0039/photos/031293p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,4--2", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0039.photos.031293p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 39, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,8--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0290.photos.031302p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0290.photos.031302p/resource/"
+        }, 
+        "title": "1.  VIEW SOUTHWEST, EAST FRONT ELEVATION - Odd Fellows Cemetery Gate, Route 13 North of Route 12, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031302pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031302p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031302p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,8--1", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0290.photos.031302p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 40, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,8--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0290.photos.031303p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0290.photos.031303p/resource/"
+        }, 
+        "title": "2.  PERSPECTIVE VIEW NORTHWEST - Odd Fellows Cemetery Gate, Route 13 North of Route 12, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031303pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031303p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031303p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,8--2", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0290.photos.031303p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 41, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,8--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0290.photos.031304p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0290.photos.031304p/resource/"
+        }, 
+        "title": "3.  DETAIL VIEW NORTHWEST, WING, POST AND GATE - Odd Fellows Cemetery Gate, Route 13 North of Route 12, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031304pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031304p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031304p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,8--3", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0290.photos.031304p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 42, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,8--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0290.photos.031305p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0290.photos.031305p/resource/"
+        }, 
+        "title": "4.  DETAIL OF GATE WING - Odd Fellows Cemetery Gate, Route 13 North of Route 12, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031305pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031305p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031305p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,8--4", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0290.photos.031305p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 43, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,8--5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0290.photos.031306p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0290.photos.031306p/resource/"
+        }, 
+        "title": "5.  DETAIL OF DECORATIVE WOODWORK - Odd Fellows Cemetery Gate, Route 13 North of Route 12, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031306pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031306p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0290/photos/031306p_150px.jpg"
+        }, 
+        "created": "2016-04-17T00:00:00Z", 
+        "modified": "2016-04-17T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,1-SMYR,8--5", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2016-04-17T00:00:00Z", 
+        "pk": "de0290.photos.031306p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 44, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031950p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031950p/resource/"
+        }, 
+        "title": "1.  SOUTH FRONT LOOKING NORTHWEST - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031950pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031950p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031950p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031950p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 45, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031951p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031951p/resource/"
+        }, 
+        "title": "2.  NORTH (REAR) FACADE - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031951pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031951p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031951p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031951p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 46, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031952p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031952p/resource/"
+        }, 
+        "title": "3.  SOUTH FRONT LOOKING NORTHEAST - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031952pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031952p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031952p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--3", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031952p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 47, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031953p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031953p/resource/"
+        }, 
+        "title": "4.  STAIRWAY LOOKING NORTH, NORTH SIDE - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031953pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031953p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031953p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--4", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031953p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 48, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031954p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031954p/resource/"
+        }, 
+        "title": "5.  SOUTH END OF PARTITIONED WEST BEDROOM, SECOND FLOOR - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031954pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031954p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031954p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--5", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031954p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 49, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--6", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031955p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031955p/resource/"
+        }, 
+        "title": "6.  NORTH END OF PARTITIONED EAST BEDROOM, SECOND FLOOR - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031955pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031955p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031955p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--6", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031955p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 50, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--7", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031956p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031956p/resource/"
+        }, 
+        "title": "7.  SOUTHWEST CORNER OF PARLOR IN WEST END, FIRST FLOOR - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031956pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031956p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031956p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--7", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031956p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 51, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,1--8", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0138.photos.031957p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0138.photos.031957p/resource/"
+        }, 
+        "title": "8.  PARLOR ON WEST END, FIRST FLOOR - Allee House, Adjoining Bombay Hook Wildlife Refuge, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031957pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031957p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0100/de0138/photos/031957p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,1--8", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0138.photos.031957p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 52, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,2--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0260.photos.031959p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0260.photos.031959p/resource/"
+        }, 
+        "title": "1.  VIEW SOUTHWEST SHOWING EAST (RIVER FRONT) AND NORTH ELEVATIONS - Brick Store, Route 488, East of Road 489, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031959pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031959p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031959p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,2--1", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0260.photos.031959p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 53, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,2--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0260.photos.031960p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0260.photos.031960p/resource/"
+        }, 
+        "title": "2.  VIEW NORTHEAST SHOWING WEST (LAND FRONT) AND SOUTH ELEVATIONS - Brick Store, Route 488, East of Road 489, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031960pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031960p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031960p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,2--2", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0260.photos.031960p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 54, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,2--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0260.photos.031961p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0260.photos.031961p/resource/"
+        }, 
+        "title": "3.  VIEW EAST SHOWING WEST ELEVATION - Brick Store, Route 488, East of Road 489, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031961pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031961p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031961p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,2--3", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0260.photos.031961p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 55, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,2--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0260.photos.031962p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0260.photos.031962p/resource/"
+        }, 
+        "title": "4.  VIEW NORTHEAST SHOWING SOUTH ELEVATION, FEATURING DATED GABLE - Brick Store, Route 488, East of Road 489, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031962pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031962p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/photos/031962p_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,2--4", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0260.photos.031962p", 
+        "created_published_date": "", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 56, 
+        "medium": "24 x 36 in. (D size)", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,2- (sheet 1 of 2)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0260.sheet.00001a/", 
+            "resource": "https://www.loc.gov/pictures/item/de0260.sheet.00001a/resource/"
+        }, 
+        "title": "HABS DEL,2-SMYR.V,2- (sheet 1 of 2) - Brick Store, Route 488, East of Road 489, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/sheet/00001r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/sheet/00001_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/sheet/00001_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,2- (sheet 1 of 2)", 
+        "medium_brief": "24 x 36 in. (D size)", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0260.sheet.00001a", 
+        "created_published_date": null, 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 57, 
+        "medium": "24 x 36 in. (D size)", 
+        "reproduction_number": "HABS DEL,2-SMYR.V,2- (sheet 2 of 2)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0260.sheet.00002a/", 
+            "resource": "https://www.loc.gov/pictures/item/de0260.sheet.00002a/resource/"
+        }, 
+        "title": "HABS DEL,2-SMYR.V,2- (sheet 2 of 2) - Brick Store, Route 488, East of Road 489, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/sheet/00002r.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/sheet/00002_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0200/de0260/sheet/00002_150px.jpg"
+        }, 
+        "created": "2018-12-06T00:00:00Z", 
+        "modified": "2018-12-06T00:00:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": null, 
+        "call_number": "HABS DEL,2-SMYR.V,2- (sheet 2 of 2)", 
+        "medium_brief": "24 x 36 in. (D size)", 
+        "source_modified": "2018-12-06T00:00:00Z", 
+        "pk": "de0260.sheet.00002a", 
+        "created_published_date": null, 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 58, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-DUCK,2--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0016.photos.031117p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0016.photos.031117p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936. VIEW FROM EAST - Davis-Boyer House, Duck Creek, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0016/photos/031117pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0016/photos/031117p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0016/photos/031117p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:41:59Z", 
+        "modified": "2023-04-11T21:42:00Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Stewart, W. S.", 
+        "call_number": "HABS DEL,1-DUCK,2--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:41:00Z", 
+        "pk": "de0016.photos.031117p", 
+        "created_published_date": "1936", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 59, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-DUCK,1--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0017.photos.031116p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0017.photos.031116p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey, W. S. Stewart, Photographer. Nov. 24, 1936. VIEW FROM NORTH. - The Lindens, Route 13 A, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0017/photos/031116pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0017/photos/031116p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0017/photos/031116p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:42:10Z", 
+        "modified": "2023-04-11T21:42:10Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Stewart, W. S.", 
+        "call_number": "HABS DEL,1-DUCK,1--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0017.photos.031116p", 
+        "created_published_date": "1936", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 60, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031307p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031307p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 VIEW FROM WEST - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031307pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031307p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031307p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:04Z", 
+        "modified": "2023-04-11T21:43:04Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Stewart, W. S.", 
+        "call_number": "HABS DEL,1-SMYR.V,3--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031307p", 
+        "created_published_date": "1936", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 61, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031308p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031308p/resource/"
+        }, 
+        "title": "2.  Historic American Buildings Survey W. S. Stewart, Photographer Nov. 24, 1936 FRONT ENTRANCE - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031308pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031308p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031308p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:04Z", 
+        "modified": "2023-04-11T21:43:04Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Stewart, W. S.", 
+        "call_number": "HABS DEL,1-SMYR.V,3--2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031308p", 
+        "created_published_date": "1936", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 62, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031309p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031309p/resource/"
+        }, 
+        "title": "3.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 SOUTHWEST ELEVATION - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031309pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031309p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031309p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:04Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--3", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031309p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 63, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031310p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031310p/resource/"
+        }, 
+        "title": "4.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 SOUTHWEST ELEVATION - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031310pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031310p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031310p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--4", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031310p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 64, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031311p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031311p/resource/"
+        }, 
+        "title": "5.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 SOUTHEAST ELEVATION - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031311pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031311p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031311p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--5", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031311p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 65, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--6", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031312p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031312p/resource/"
+        }, 
+        "title": "6.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 NORTHEAST ELEVATION - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031312pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031312p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031312p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--6", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031312p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 66, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--7", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031313p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031313p/resource/"
+        }, 
+        "title": "7.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 NORTHEAST ELEVATION - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031313pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031313p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031313p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--7", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031313p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 67, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--8", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031314p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031314p/resource/"
+        }, 
+        "title": "8.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 ENTRANCE SOUTHWEST ELEVATION - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031314pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031314p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031314p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--8", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031314p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 68, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--9", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031315p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031315p/resource/"
+        }, 
+        "title": "9.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 EAST WING (SEVENTEENTH CENTURY) GROUND FLOOR - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031315pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031315p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031315p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--9", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031315p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 69, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--10", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031316p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031316p/resource/"
+        }, 
+        "title": "10.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 WEST PARLOR (EIGHTEENTH CENTURY ADDITION) GROUND FLOOR - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031316pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031316p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031316p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--10", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031316p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 70, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--11", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031317p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031317p/resource/"
+        }, 
+        "title": "11.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 CENTRAL HALL SHOWING STAIRWAY - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031317pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031317p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031317p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--11", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031317p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 71, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR.V,3--12", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0034.photos.031318p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0034.photos.031318p/resource/"
+        }, 
+        "title": "12.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer June 1960 CENTRAL HALL SHOWING SOUTHWEST ENTRANCE - Belmont Hall, Route 13, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031318pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031318p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0034/photos/031318p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:05Z", 
+        "modified": "2023-04-11T21:43:05Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR.V,3--12", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:42:00Z", 
+        "pk": "de0034.photos.031318p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 72, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,7--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0040.photos.031296p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0040.photos.031296p/resource/"
+        }, 
+        "title": "1.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer May 1960 WEST FRONT - Woodlawn, Route 13, State Road 12 vicinity, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031296pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031296p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031296p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:16Z", 
+        "modified": "2023-04-11T21:43:16Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR,7--1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:43:00Z", 
+        "pk": "de0040.photos.031296p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 73, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,7--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0040.photos.031297p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0040.photos.031297p/resource/"
+        }, 
+        "title": "2.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer July 1959 WEST FRONT - Woodlawn, Route 13, State Road 12 vicinity, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031297pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031297p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031297p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:16Z", 
+        "modified": "2023-04-11T21:43:16Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR,7--2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:43:00Z", 
+        "pk": "de0040.photos.031297p", 
+        "created_published_date": "1959", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 74, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,7--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0040.photos.031298p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0040.photos.031298p/resource/"
+        }, 
+        "title": "3.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer July 1959 SOUTH AND WEST SIDES - Woodlawn, Route 13, State Road 12 vicinity, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031298pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031298p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031298p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:16Z", 
+        "modified": "2023-04-11T21:43:16Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR,7--3", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:43:00Z", 
+        "pk": "de0040.photos.031298p", 
+        "created_published_date": "1959", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 75, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,7--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0040.photos.031299p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0040.photos.031299p/resource/"
+        }, 
+        "title": "4.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer May 1960 NORTH AND EAST SIDES - Woodlawn, Route 13, State Road 12 vicinity, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031299pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031299p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031299p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:16Z", 
+        "modified": "2023-04-11T21:43:16Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR,7--4", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:43:00Z", 
+        "pk": "de0040.photos.031299p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 76, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,7--5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0040.photos.031300p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0040.photos.031300p/resource/"
+        }, 
+        "title": "5.  Historic American Buildings Survey Cortlandt Van Dyke Hubbard, Photographer May 1960 INTERIOR OF OLD KITCHEN WING - Woodlawn, Route 13, State Road 12 vicinity, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031300pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031300p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031300p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:16Z", 
+        "modified": "2023-04-11T21:43:16Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Hubbard, Cortlandt Van Dyke", 
+        "call_number": "HABS DEL,1-SMYR,7--5", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2023-04-11T21:43:00Z", 
+        "pk": "de0040.photos.031300p", 
+        "created_published_date": "1960", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 77, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HABS DEL,1-SMYR,7--6", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0040.photos.031301p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0040.photos.031301p/resource/"
+        }, 
+        "title": "6.  WEST FRONT - Woodlawn, Route 13, State Road 12 vicinity, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031301pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031301p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0000/de0040/photos/031301p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:43:16Z", 
+        "modified": "2023-04-11T21:43:16Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Ames, David L.", 
+        "call_number": "HABS DEL,1-SMYR,7--6", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:43:00Z", 
+        "pk": "de0040.photos.031301p", 
+        "created_published_date": "1982", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 78, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317672p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317672p/resource/"
+        }, 
+        "title": "1.  BRIDGE IN CONTEXT, VIEW SOUTH - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317672pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317672p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317672p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:48Z", 
+        "modified": "2023-04-11T21:48:48Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--1", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317672p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 79, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317673p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317673p/resource/"
+        }, 
+        "title": "2.  EAST APPROACH, VIEW WEST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317673pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317673p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317673p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:48Z", 
+        "modified": "2023-04-11T21:48:48Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--2", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317673p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 80, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317674p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317674p/resource/"
+        }, 
+        "title": "3.  WEST APPROACH, VIEW EAST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317674pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317674p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317674p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:48Z", 
+        "modified": "2023-04-11T21:48:48Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--3", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317674p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 81, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317675p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317675p/resource/"
+        }, 
+        "title": "4.  DECK, VIEW EAST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317675pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317675p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317675p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:48Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--4", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317675p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 82, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317676p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317676p/resource/"
+        }, 
+        "title": "5.  NORTH ELEVATION, VIEW SOUTH - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317676pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317676p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317676p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--5", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317676p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 83, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--6", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317677p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317677p/resource/"
+        }, 
+        "title": "6.  SOUTH ELEVATION OBLIQUE, VIEW NORTHWEST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317677pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317677p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317677p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--6", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317677p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 84, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--7", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317678p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317678p/resource/"
+        }, 
+        "title": "7.  SOUTH ELEVATION OBLIQUE, VIEW NORTHEAST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317678pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317678p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317678p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--7", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317678p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 85, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--8", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317679p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317679p/resource/"
+        }, 
+        "title": "8.  WEST ABUTMENT, SOUTH SIDE, AND SOUTH GUARDRAIL, VIEW WEST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317679pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317679p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317679p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--8", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317679p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 86, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--9", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317680p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317680p/resource/"
+        }, 
+        "title": "9.  SUBSTRUCTURE, VIEW NORTHWEST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317680pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317680p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317680p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--9", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317680p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 87, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--10", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317681p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317681p/resource/"
+        }, 
+        "title": "10.  SOUTH GUARDRAIL AND DECK, VIEW SOUTHWEST - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317681pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317681p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317681p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--10", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317681p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 88, 
+        "medium": "4 x 5 in.", 
+        "reproduction_number": "HAER DEL,1-SMYR.V,4--11", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/de0418.photos.317682p/", 
+            "resource": "https://www.loc.gov/pictures/item/de0418.photos.317682p/resource/"
+        }, 
+        "title": "11.  DETAIL-SUBSTRUCTURE AT WEST ABUTMENT, VIEW SOUTH - Mill Creek Bridge, Spanning Mill Creek at State Route No. 6, Smyrna, Kent County, DE", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317682pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317682p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/de/de0400/de0418/photos/317682p_150px.jpg"
+        }, 
+        "created": "2023-04-11T21:48:49Z", 
+        "modified": "2023-04-11T21:48:49Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Tucher, Rob", 
+        "call_number": "HAER DEL,1-SMYR.V,4--11", 
+        "medium_brief": "4 x 5 in.", 
+        "source_modified": "2023-04-11T21:48:00Z", 
+        "pk": "de0418.photos.317682p", 
+        "created_published_date": "1994", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 89, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-14 (CT)", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.color.218270c/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.color.218270c/resource/"
+        }, 
+        "title": "BELOW DECK, LOOKING SOUTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/color/218270cr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/color/218270c_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/color/218270c_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:01Z", 
+        "modified": "2024-12-04T15:35:01Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-14 (CT)", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.color.218270c", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 90, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-1", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196650p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196650p/resource/"
+        }, 
+        "title": "PERSPECTIVE, 320 DEGREES, NORTHWEST. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196650pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196650p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196650p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:01Z", 
+        "modified": "2024-12-04T15:35:01Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-1", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196650p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 91, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-2", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196651p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196651p/resource/"
+        }, 
+        "title": "OBLIQUE PERSPECTIVE, DUE NORTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196651pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196651p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196651p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:01Z", 
+        "modified": "2024-12-04T15:35:01Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-2", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196651p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 92, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-3", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196652p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196652p/resource/"
+        }, 
+        "title": "STRUCTURAL DETAIL, LOOKING NORTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196652pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196652p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196652p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:01Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-3", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196652p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 93, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-4", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196653p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196653p/resource/"
+        }, 
+        "title": "LOWER CHORD STRUCTURAL DETAIL - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196653pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196653p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196653p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-4", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196653p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 94, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-5", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196654p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196654p/resource/"
+        }, 
+        "title": "SOUTH ABUTMENT, DETAIL.  NOTE MISSING STRUT TO LEFT. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196654pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196654p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196654p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-5", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196654p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 95, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-6", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196655p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196655p/resource/"
+        }, 
+        "title": "SOUTH PORTAL PERSPECTIVE, LOOKING NORTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196655pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196655p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196655p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-6", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196655p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 96, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-7", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196656p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196656p/resource/"
+        }, 
+        "title": "SOUTH PORTAL ELEVATION. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196656pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196656p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196656p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-7", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196656p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 97, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-8", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196657p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196657p/resource/"
+        }, 
+        "title": "INTERIOR FROM MID-SPAN, LOOKING SOUTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196657pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196657p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196657p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-8", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196657p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 98, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-9", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196658p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196658p/resource/"
+        }, 
+        "title": "INTERIOR, NORTH PORTAL. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196658pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196658p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196658p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-9", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196658p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 99, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-10", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196659p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196659p/resource/"
+        }, 
+        "title": "OBLIQUE PERSPECTIVE, LOOKING SOUTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196659pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196659p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196659p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-10", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196659p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }, 
+    {
+        "source_created": "1970-01-01T00:00:00Z", 
+        "index": 100, 
+        "medium": "5 x 7 in.", 
+        "reproduction_number": "HAER MI-331-11", 
+        "links": {
+            "item": "https://www.loc.gov/pictures/item/mi0685.photos.196660p/", 
+            "resource": "https://www.loc.gov/pictures/item/mi0685.photos.196660p/resource/"
+        }, 
+        "title": "BELOW DECK, LOOKING SOUTH. - White's Bridge, Spanning Flat River, White's Bridge Road, Smyrna, Ionia County, MI", 
+        "image": {
+            "alt": "digitized item thumbnail", 
+            "full": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196660pr.jpg", 
+            "square": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196660p_75x75px.jpg", 
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/habshaer/mi/mi0600/mi0685/photos/196660p_150px.jpg"
+        }, 
+        "created": "2024-12-04T15:35:02Z", 
+        "modified": "2024-12-04T15:35:02Z", 
+        "collection": [
+            "diof", 
+            "hh"
+        ], 
+        "creator": "Lowe, Jet", 
+        "call_number": "HAER MI-331-11", 
+        "medium_brief": "5 x 7 in.", 
+        "source_modified": "2024-12-04T15:34:00Z", 
+        "pk": "mi0685.photos.196660p", 
+        "created_published_date": "2004", 
+        "subjects": null
+    }
+]}
